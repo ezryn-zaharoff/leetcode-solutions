@@ -1,4 +1,4 @@
-public class Q557_reverse_string_iii {
+public class Q557_reverse_words_in_a_string_iii {
     public String reverseWords(String s) {
         String[] sub = s.split(" ");
         String ans = " ";
