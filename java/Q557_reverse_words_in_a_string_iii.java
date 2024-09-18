@@ -1,7 +1,7 @@
 public class Q557_reverse_words_in_a_string_iii {
     public String reverseWords(String s) {
         String[] sub = s.split(" ");
-        String ans = " ";
+        String ans = "";
 
         for (int i = 0; i <= sub.length-1; i++) {
             String sub_reverse = "";
@@ -18,6 +18,6 @@ public class Q557_reverse_words_in_a_string_iii {
             }
         }
 
-        return ans.substring(1,ans.length());
+        return ans;
     }
 }
