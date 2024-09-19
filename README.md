@@ -3,16 +3,17 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 11
+## Total : 12
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|  7   |    3   |   1  |
+|  7   |    3   |   2  |
 
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
 |:---:|----------|:----------:|:-------:|:----:|:---:|
 | 32. | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q32_longest_valid_parentheses.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q32_longest_valid_parentheses.java) | - |
+| 41. | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q41_first_missing_positive.py) | - | - |
 | 56. | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q56_merge_intervals.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q56_merge_intervals.java) | - |
 | 151. | [Reverse Words In A String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q151_reverse_words_in_a_string.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q151_reverse_words_in_a_string.java) | - |
 | 186. | [Reverse Words In A String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q186_reverse_words_in_a_string_ii.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q186_reverse_words_in_a_string_ii.java) | - |
