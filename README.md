@@ -3,11 +3,11 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 8
+## Total : 10
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|  5   |    3   |   0  |
+|  7   |    3   |   0  |
 
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
