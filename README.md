@@ -3,7 +3,7 @@
 This repository is a place to share solutions to Leetcode questions using Python3 and Java.
 
 
-# Total : 6
+## Total : 6
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
