@@ -12,7 +12,7 @@ This repository is a place to share solutions to Leetcode questions using Python
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
 |:---:|----------|:----------:|:-------:|:----:|:---:|
-| 01. | [Two Sum](https://leetcode.com/problems/two-sum/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q01_two_sum.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q01_two_sum.java) | - |
+| 01. | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q01_two_sum.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q01_two_sum.java) | - |
 | 32. | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q32_longest_valid_parentheses.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q32_longest_valid_parentheses.java) | - |
 | 41. | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q41_first_missing_positive.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q41_first_missing_positive.java) | - |
 | 56. | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q56_merge_intervals.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q56_merge_intervals.java) | - |
