@@ -8,7 +8,7 @@ You must implement an algorithm that runs in O(n) time and uses O(1) auxiliary s
 
 import java.util.Arrays;
 
-public class Q42_first_missing_positive {
+public class Q41_first_missing_positive {
     public int firstMissingPositive(int[] nums) {
         int[] filteredNums = Arrays.stream(nums).filter(n -> n > 0).toArray();
         Arrays.sort(filteredNums);
