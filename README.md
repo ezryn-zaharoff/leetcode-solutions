@@ -3,11 +3,11 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 20
+## Total : 21
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|  10  |    5   |   5  |
+|  11  |    5   |   5  |
 
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
@@ -18,6 +18,7 @@ This repository is a place to share solutions to Leetcode questions using Python
 | 11. | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q11_container_with_most_water.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q11_container_with_most_water.java) | - |
 | 12. | [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q12_integer_to_roman.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q12_integer_to_roman.java) | - |
 | 13. | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q13_roman_to_integer.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q13_roman_to_integer.java) | - |
+| 14. | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q14_longest_common_prefix.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q14_longest_common_prefix.java) | - |
 | 32. | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q32_longest_valid_parentheses.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q32_longest_valid_parentheses.java) | - |
 | 41. | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q41_first_missing_positive.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q41_first_missing_positive.java) | - |
 | 42. | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q42_trapping_water.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q42_trapping_water.java) | - |
