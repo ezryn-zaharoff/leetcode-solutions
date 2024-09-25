@@ -3,11 +3,11 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 24
+## Total : 25
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|  13  |    6   |   5  |
+|  14  |    6   |   5  |
 
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
@@ -24,6 +24,7 @@ This repository is a place to share solutions to Leetcode questions using Python
 | 42. | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q42_trapping_water.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q42_trapping_water.java) | - |
 | 44. | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q44_wildcard_matching.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q44_wildcard_matching.java) | - |
 | 56. | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q56_merge_intervals.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q56_merge_intervals.java) | - |
+| 58. | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q58_length_of_last_word.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q58_length_of_last_word.java) | - |
 | 151. | [Reverse Words In A String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q151_reverse_words_in_a_string.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q151_reverse_words_in_a_string.java) | - |
 | 186. | [Reverse Words In A String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q186_reverse_words_in_a_string_ii.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q186_reverse_words_in_a_string_ii.java) | - |
 | 344. | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q344_reverse_string.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q344_reverse_string.java) | - |
