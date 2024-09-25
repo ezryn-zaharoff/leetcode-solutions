@@ -3,11 +3,11 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 25
+## Total : 26
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|  14  |    6   |   5  |
+|  14  |    7   |   5  |
 
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
@@ -35,5 +35,6 @@ This repository is a place to share solutions to Leetcode questions using Python
 | 693. | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q693_binary_number_with_alternating_bits.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q693_binary_number_with_alternating_bits.java) | - |
 | 697. | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q697_degree_of_an_array.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q697_degree_of_an_array.java) | - |
 | 704. | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q704_binary_search.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q704_binary_search.java) | - |
+| 885. | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q885_spiral_matrix_iii.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q885_spiral_matrix_iii.java) | - |
 | 1757. | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | - | - | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1757_recyclable_and_low_fat_products.sql) |
 | 2342. | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2342_max_sum_of_a_pair_with_equal_sum_of_digits.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2342_max_sum_of_a_pair_with_equal_sum_of_digits.java) | - |
