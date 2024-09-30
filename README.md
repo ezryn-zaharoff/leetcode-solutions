@@ -3,11 +3,11 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 27
+## Total : 28
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|  15  |    7   |   5  |
+|  15  |    8   |   5  |
 
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
@@ -38,4 +38,5 @@ This repository is a place to share solutions to Leetcode questions using Python
 | 885. | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q885_spiral_matrix_iii.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q885_spiral_matrix_iii.java) | - |
 | 1757. | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | - | - | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1757_recyclable_and_low_fat_products.sql) |
 | 2269. | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2269_find_the_k_beauty_of_a_number.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2269_find_the_k_beauty_of_a_number.java) | - |
+| 2284. | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2284_sender_with_largest_word_count.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2284_sender_with_largest_word_count.java) | - |
 | 2342. | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2342_max_sum_of_a_pair_with_equal_sum_of_digits.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2342_max_sum_of_a_pair_with_equal_sum_of_digits.java) | - |
