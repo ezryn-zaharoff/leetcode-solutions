@@ -3,11 +3,11 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 29
+## Total : 30
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|  15  |    8   |   6  |
+|  16  |    8   |   6  |
 
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
@@ -40,4 +40,5 @@ This repository is a place to share solutions to Leetcode questions using Python
 | 2269. | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2269_find_the_k_beauty_of_a_number.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2269_find_the_k_beauty_of_a_number.java) | - |
 | 2284. | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2284_sender_with_largest_word_count.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2284_sender_with_largest_word_count.java) | - |
 | 2306. | [Naming a Company](https://leetcode.com/problems/naming-a-company/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2306_naming_a_company.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2306_naming_a_company.java) | - |
+| 2319. | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2319_check_if_matrix_is_x_matrix.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2319_check_if_matrix_is_x_matrix.java) | - |
 | 2342. | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2342_max_sum_of_a_pair_with_equal_sum_of_digits.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2342_max_sum_of_a_pair_with_equal_sum_of_digits.java) | - |
