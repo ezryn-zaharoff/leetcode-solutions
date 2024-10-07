@@ -3,11 +3,11 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 31
+## Total : 32
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|  16  |    9   |   6  |
+|  16  |    9   |   7  |
 
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
@@ -43,3 +43,4 @@ This repository is a place to share solutions to Leetcode questions using Python
 | 2319. | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2319_check_if_matrix_is_x_matrix.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2319_check_if_matrix_is_x_matrix.java) | - |
 | 2337. | [Move Pieves to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2337_move_pieces_to_obtain_a_string.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2337_move_pieces_to_obtain_a_string.java) | - |
 | 2342. | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2342_max_sum_of_a_pair_with_equal_sum_of_digits.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2342_max_sum_of_a_pair_with_equal_sum_of_digits.java) | - |
+| 2344. | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2344_minimum_deletions_to_make_array_divisible.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2344_minimum_deletions_to_make_array_divisible.java) | - |
