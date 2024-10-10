@@ -3,11 +3,11 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 33
+## Total : 34
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|  16  |   10   |   7  |
+|  16  |   11   |   7  |
 
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
@@ -44,4 +44,5 @@ This repository is a place to share solutions to Leetcode questions using Python
 | 2332. | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2332_the_latest_time_to_catch_a_bus.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2332_the_latest_time_to_catch_a_bus.java) | - |
 | 2337. | [Move Pieves to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2337_move_pieces_to_obtain_a_string.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2337_move_pieces_to_obtain_a_string.java) | - |
 | 2342. | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2342_max_sum_of_a_pair_with_equal_sum_of_digits.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2342_max_sum_of_a_pair_with_equal_sum_of_digits.java) | - |
+| 2343. | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2343_query_kth_smallest_trimmed_number.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2343_query_kth_smallest_trimmed_number.java) | - |
 | 2344. | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2344_minimum_deletions_to_make_array_divisible.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2344_minimum_deletions_to_make_array_divisible.java) | - |
