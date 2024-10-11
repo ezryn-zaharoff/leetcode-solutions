@@ -3,11 +3,15 @@
 This section is a compilation of solutions for hard Leetcode questions.
 
 
-## Total : 4
+## Total : 8
 
 
 | No. | Question | Solution | Python3 | Java |
 |:---:|----------|:--------:|:-------:|:----:|
+| 0010. | Regular Expression Matching | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0010.md) | ✓ | ✓ |
+| 0032. | Longest Valid Parentheses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0032.md) | ✓ | ✓ |
+| 0041. | First Missing Positive | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0041.md) | ✓ | ✓ |
+| 0042. | Trapping Rain Water | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0042.md) | ✓ | ✓ |
 | 0044. | Wildcard Matching | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0044.md) | ✓ | ✓ |
 | 2302. | Count Subarrays With Score Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q2302.md) | ✓ | ✓ |
 | 2306. | Naming a Company | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q2306.md) | ✓ | ✓ |
