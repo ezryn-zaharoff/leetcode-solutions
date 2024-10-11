@@ -10,7 +10,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 |:---:|----------|:--------:|:-------:|:----:|
 | 01. | Two Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0001.md) | ✓ | ✓ |
 | 09. | Palindrome Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0009.md) | ✓ | ✓ |
-| 13. | Roman To Integer| [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0013.md) | ✓ | ✓ |
+| 13. | Roman To Integer | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0013.md) | ✓ | ✓ |
 | 14. | Longest Common Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0014.md) | ✓ | ✓ |
 | 58. | Length of Last Word | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0058.md) | ✓ | ✓ |
 | 344. | Reverse String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0344.md) | ✓ | ✓ |
