@@ -3,8 +3,15 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 43
+## Total Non-SQL Questions: 40
 
 | [Easy](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/01-easy) | [Medium](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/02-medium) | [Hard](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/03-hard) |
 |:----:|:------:|:----:|
-|  17  |   17   |   9  |
+|  14  |   17   |  09  |
+
+
+## Total SQL Questions : 3
+
+| Easy | Medium | Hard |
+|:----:|:------:|:----:|
+|   3  |    0   |   0  |
