@@ -3,13 +3,14 @@
 This section is a compilation of solutions for hard Leetcode questions.
 
 
-## Total : 9
+## Total : 10
 
 
 | No. | Question | Solution | Python3 | Java |
 |:---:|----------|:--------:|:-------:|:----:|
 | 04. | Median of Two Sorted Arrays | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0004.md) | ✓ | - |
 | 10. | Regular Expression Matching | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0010.md) | ✓ | ✓ |
+| 30. | Substring with Concatenation of All Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0030.md) | ✓ | - |
 | 32. | Longest Valid Parentheses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0032.md) | ✓ | ✓ |
 | 41. | First Missing Positive | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0041.md) | ✓ | ✓ |
 | 42. | Trapping Rain Water | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0042.md) | ✓ | ✓ |
