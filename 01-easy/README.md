@@ -3,9 +3,22 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 1
+## Total : 16
 
 
 | No. | Question | Solution | Python3 | Java |
 |:---:|----------|:--------:|:-------:|:----:|
-| 0001. | Two Sum| [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0001.md) | ✓ | ✓ |
+| 01. | Two Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0001.md) | ✓ | ✓ |
+| 09. | Palindrome Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0009.md) | ✓ | ✓ |
+| 13. | Roman To Integer| [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0013.md) | ✓ | ✓ |
+| 14. | Longest Common Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0014.md) | ✓ | ✓ |
+| 58. | Length of Last Word | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0058.md) | ✓ | ✓ |
+| 344. | Reverse String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0344.md) | ✓ | ✓ |
+| 541. | Reverse String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0541.md) | ✓ | ✓ |
+| 557. | Reverse Words In A String III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0557.md) | ✓ | ✓ |
+| 682. | Baseball Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0682.md) | ✓ | ✓ |
+| 693. | Binary Number with Alternating Bits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0693.md) | ✓ | ✓ |
+| 697. | Degree of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0697.md) | ✓ | ✓ |
+| 704. | Binary Search | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0704.md) | ✓ | ✓ |
+| 2269. | Find the K-Beauty of a Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2269.md) | ✓ | ✓ |
+| 2319. | Check if Matrix Is X-Matrix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2319.md) | ✓ | ✓ |
