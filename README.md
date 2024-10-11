@@ -3,11 +3,11 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java and SQL.
 
 
-## Total : 35
+## Total : 36
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|  16  |   12   |   7  |
+|  16  |   12   |   8  |
 
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
@@ -39,6 +39,7 @@ This repository is a place to share solutions to Leetcode questions using Python
 | 1757. | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | - | - | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1757_recyclable_and_low_fat_products.sql) |
 | 2269. | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2269_find_the_k_beauty_of_a_number.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2269_find_the_k_beauty_of_a_number.java) | - |
 | 2284. | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2284_sender_with_largest_word_count.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2284_sender_with_largest_word_count.java) | - |
+| 2302. | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2302_count_subarrays_with_score_less_than_k.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2302_count_subarrays_with_score_less_than_k.java) | - |
 | 2306. | [Naming a Company](https://leetcode.com/problems/naming-a-company/) | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2306_naming_a_company.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2306_naming_a_company.java) | - |
 | 2319. | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2319_check_if_matrix_is_x_matrix.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2319_check_if_matrix_is_x_matrix.java) | - |
 | 2327. | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q2327_number_of_people_aware_of_a_secret.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q2327_number_of_people_aware_of_a_secret.java) | - |
