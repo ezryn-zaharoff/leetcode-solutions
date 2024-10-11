@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 16
+## Total : 14
 
 
 | No. | Question | Solution | Python3 | Java |
