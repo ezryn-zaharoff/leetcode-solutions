@@ -12,7 +12,6 @@ This repository is a place to share solutions to Leetcode questions using Python
 
 | No. | Question | Difficulty | Python3 | Java | SQL |
 |:---:|----------|:----------:|:-------:|:----:|:---:|
-| 01. | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q01_two_sum.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q01_two_sum.java) | - |
 | 09. | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q09_palindrome_number.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q09_palindrome_number.java) | - |
 | 11. | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q11_container_with_most_water.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q11_container_with_most_water.java) | - |
 | 12. | [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/python3/Q12_integer_to_roman.py) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/java/Q12_integer_to_roman.java) | - |
