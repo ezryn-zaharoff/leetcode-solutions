@@ -3,7 +3,7 @@
 This section is a compilation of solutions for hard Leetcode questions.
 
 
-## Total : 14
+## Total : 15
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -19,6 +19,7 @@ This section is a compilation of solutions for hard Leetcode questions.
 | 815. | Bus Routes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0815.md) | ✓ | - |
 | 818. | Race Car | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0818.md) | ✓ | - |
 | 827. | Making A Large Island | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0827.md) | ✓ | - |
+| 828. | Count Unique Characters of All Substrings of a Given String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0828.md) | ✓ | - |
 | 2302. | Count Subarrays With Score Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q2302.md) | ✓ | ✓ |
 | 2306. | Naming a Company | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q2306.md) | ✓ | ✓ |
 | 2344. | Minimum Deletions to Make Array Divisible | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q2306.md) | ✓ | ✓ |
