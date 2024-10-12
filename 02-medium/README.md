@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 19
+## Total : 20
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -11,6 +11,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 03. | Longest Substring Without Repeating Characters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0003.md) | ✓ | - |
 | 05. | Longest Palindromic Substring | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0005.md) | ✓ | - |
 | 06. | Zigzag Conversion | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0006.md) | ✓ | - |
+| 07. | Reverse Integer | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0007.md) | ✓ | - |
 | 11. | Container With Most Water | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0011.md) | ✓ | ✓ |
 | 12. | Integer To Roman | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0012.md) | ✓ | ✓ |
 | 56. | Merge Intervals | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0056.md) | ✓ | ✓ |
