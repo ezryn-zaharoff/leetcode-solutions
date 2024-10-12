@@ -3,7 +3,7 @@
 This section is a compilation of solutions for hard Leetcode questions.
 
 
-## Total : 10
+## Total : 11
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -12,6 +12,7 @@ This section is a compilation of solutions for hard Leetcode questions.
 | 10. | Regular Expression Matching | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0010.md) | ✓ | ✓ |
 | 30. | Substring with Concatenation of All Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0030.md) | ✓ | - |
 | 32. | Longest Valid Parentheses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0032.md) | ✓ | ✓ |
+| 37. | Sudoku Solver | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0037.md) | ✓ | - |
 | 41. | First Missing Positive | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0041.md) | ✓ | ✓ |
 | 42. | Trapping Rain Water | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0042.md) | ✓ | ✓ |
 | 44. | Wildcard Matching | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0044.md) | ✓ | ✓ |
