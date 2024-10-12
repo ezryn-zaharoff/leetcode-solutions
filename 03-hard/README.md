@@ -3,7 +3,7 @@
 This section is a compilation of solutions for hard Leetcode questions.
 
 
-## Total : 12
+## Total : 13
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -17,6 +17,7 @@ This section is a compilation of solutions for hard Leetcode questions.
 | 42. | Trapping Rain Water | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0042.md) | ✓ | ✓ |
 | 44. | Wildcard Matching | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0044.md) | ✓ | ✓ |
 | 815. | Bus Routes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0815.md) | ✓ | - |
+| 818. | Race Car | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q0818.md) | ✓ | - |
 | 2302. | Count Subarrays With Score Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q2302.md) | ✓ | ✓ |
 | 2306. | Naming a Company | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q2306.md) | ✓ | ✓ |
 | 2344. | Minimum Deletions to Make Array Divisible | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/hard/Q2306.md) | ✓ | ✓ |
