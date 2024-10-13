@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 21
+## Total : 22
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -15,6 +15,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 08. | String to Integer (atoi) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0008.md) | ✓ | - |
 | 11. | Container With Most Water | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0011.md) | ✓ | ✓ |
 | 12. | Integer To Roman | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0012.md) | ✓ | ✓ |
+| 15. | 3Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0015.md) | ✓ | - |
 | 56. | Merge Intervals | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0056.md) | ✓ | ✓ |
 | 151. | Reverse Words In A String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0151.md) | ✓ | ✓ |
 | 152. | Maximum Product Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0152.md) | - | ✓ |
