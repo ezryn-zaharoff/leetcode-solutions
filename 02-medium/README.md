@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 29
+## Total : 30
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -22,6 +22,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 19. | Remove Nth Node From End of List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0019.md) | ✓ | - |
 | 22. | Generate Parentheses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0022.md) | ✓ | - |
 | 29. | Divide Two Integers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0029.md) | ✓ | - |
+| 36. | Valid Sudoku | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0036.md) | ✓ | - |
 | 31. | Next Permutation | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0031.md) | ✓ | - |
 | 56. | Merge Intervals | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0056.md) | ✓ | ✓ |
 | 151. | Reverse Words In A String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0151.md) | ✓ | ✓ |
