@@ -30,7 +30,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 152. | Maximum Product Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0152.md) | - | ✓ |
 | 186. | Reverse Words In A String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0186.md) | ✓ | ✓ |
 | 560. | Subarray Sum Equals K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0560.md) | - | ✓ |
-| 713. | Subarray Product Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0713.md) | - | ✓ |
+| 713. | Subarray Product Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0713.md) | ✓ | ✓ |
 | 885. | Spiral Matrix III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0885.md) | ✓ | ✓ |
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0930.md) | ✓ | ✓ |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2284.md) | ✓ | ✓ |
