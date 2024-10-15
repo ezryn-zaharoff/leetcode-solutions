@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 32
+## Total : 33
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -26,6 +26,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 36. | Valid Sudoku | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0036.md) | ✓ | - |
 | 39. | Combination Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0039.md) | ✓ | - |
 | 40. | Combination Sum II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0040.md) | ✓ | - |
+| 43. | Multiply Strings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0043.md) | ✓ | - |
 | 56. | Merge Intervals | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0056.md) | ✓ | ✓ |
 | 151. | Reverse Words In A String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0151.md) | ✓ | ✓ |
 | 152. | Maximum Product Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0152.md) | - | ✓ |
