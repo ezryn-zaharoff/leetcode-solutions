@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 37
+## Total : 38
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -32,6 +32,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 55. | Jump Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0055.md) | ✓ | - |
 | 56. | Merge Intervals | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0056.md) | ✓ | ✓ |
 | 59. | Spiral Matrix II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0059.md) | ✓ | - |
+| 78. | Subsets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0078.md) | ✓ | - |
 | 151. | Reverse Words In A String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0151.md) | ✓ | ✓ |
 | 152. | Maximum Product Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0152.md) | - | ✓ |
 | 186. | Reverse Words In A String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0186.md) | ✓ | ✓ |
