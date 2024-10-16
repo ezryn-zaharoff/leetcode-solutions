@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 16
+## Total : 17
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -22,5 +22,6 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 704. | Binary Search | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0704.md) | ✓ | ✓ |
 | 2269. | Find the K-Beauty of a Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2269.md) | ✓ | ✓ |
 | 2319. | Check if Matrix Is X-Matrix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2319.md) | ✓ | ✓ |
+| 2325. | Decode the Message | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2325.md) | ✓ | - |
 | 2335. | Minimum Amount of Time to Fill Cups | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2335.md) | ✓ | ✓ |
 | 2341. | Maximum Number of Pairs in Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2341.md) | ✓ | ✓ |
