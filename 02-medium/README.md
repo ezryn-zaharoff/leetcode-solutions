@@ -8,7 +8,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 
 | No. | Question | Solution | Python3 | Java |
 |:---:|----------|:--------:|:-------:|:----:|
-| 03. | Longest Substring Without Repeating Characters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0003.md) | ✓ | - |
+| 03. | Longest Substring Without Repeating Characters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0003.md) | ✓ | ✓ |
 | 05. | Longest Palindromic Substring | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0005.md) | ✓ | - |
 | 06. | Zigzag Conversion | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0006.md) | ✓ | - |
 | 07. | Reverse Integer | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0007.md) | ✓ | - |
