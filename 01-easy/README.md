@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 31
+## Total : 32
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -30,6 +30,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2259. | Remove Digit From Number to Maximize Result | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2259.md) | ✓ | - |
 | 2264. | Largest 3-Same-Digit Number in String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2264.md) | ✓ | - |
 | 2269. | Find the K-Beauty of a Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2269.md) | ✓ | ✓ |
+| 2273. | Find Resultant Array After Removing Anagrams | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2273.md) | ✓ | - |
 | 2293. | Min Max Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2293.md) | ✓ | - |
 | 2299. | Strong Password Checker II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2299.md) | ✓ | - |
 | 2303. | Calculate Amount Paid in Taxes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2303.md) | ✓ | ✓ |
