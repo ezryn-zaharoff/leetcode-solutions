@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 61
+## Total : 62
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -64,6 +64,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 2280. | Minimum Lines to Represent a Line Chart | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2280.md) | ✓ | - |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2284.md) | ✓ | ✓ |
 | 2285. | Maximum Total Importance of Roads | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2285.md) | ✓ | - |
+| 2288. | Apply Discount to Prices | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2288.md) | ✓ | - |
 | 2327. | Number of People Aware of a Secret | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2327.md) | ✓ | ✓ |
 | 2332. | The Latest Time to Catch a Bus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2332.md) | ✓ | ✓ |
 | 2337. | Move Pieves to Obtain a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2337.md) | ✓ | ✓ |
