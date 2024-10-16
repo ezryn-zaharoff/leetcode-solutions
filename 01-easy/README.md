@@ -25,7 +25,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2269. | Find the K-Beauty of a Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2269.md) | ✓ | ✓ |
 | 2303. | Calculate Amount Paid in Taxes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2303.md) | ✓ | - |
 | 2129. | Capitalize the Title | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2129.md) | ✓ | - |
-| 2185. | Counting Words With a Given Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2185.md) | ✓ | - |
+| 2185. | Counting Words With a Given Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2185.md) | - | ✓ |
 | 2221. | Find Triangular Sum of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2221.md) | ✓ | - |
 | 2248. | Intersection of Multiple Arrays | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2248.md) | ✓ | - |
 | 2255. | Count Prefixes of a Given String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2255.md) | ✓ | - |
