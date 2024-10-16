@@ -36,7 +36,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 90. | Subsets II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0090.md) | ✓ | - |
 | 137. | Single Number II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0137.md) | ✓ | - |
 | 151. | Reverse Words In A String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0151.md) | ✓ | ✓ |
-| 152. | Maximum Product Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0152.md) | - | ✓ |
+| 152. | Maximum Product Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0152.md) | ✓ | ✓ |
 | 186. | Reverse Words In A String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0186.md) | ✓ | ✓ |
 | 451. | Sort Characters By Frequency | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0451.md) | ✓ | - |
 | 560. | Subarray Sum Equals K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0560.md) | - | ✓ |
