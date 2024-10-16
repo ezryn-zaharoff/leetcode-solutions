@@ -21,7 +21,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 697. | Degree of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0697.md) | ✓ | ✓ |
 | 704. | Binary Search | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0704.md) | ✓ | ✓ |
 | 1455. | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q1455.md) | ✓ | ✓ |
-| 1961. | Check If String Is a Prefix of Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q1961.md) | - | ✓ |
+| 1961. | Check If String Is a Prefix of Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q1961.md) | ✓ | ✓ |
 | 2269. | Find the K-Beauty of a Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2269.md) | ✓ | ✓ |
 | 2303. | Calculate Amount Paid in Taxes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2303.md) | ✓ | - |
 | 2129. | Capitalize the Title | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2129.md) | ✓ | - |
