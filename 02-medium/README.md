@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 48
+## Total : 49
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -48,6 +48,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 813. | Largest Sum of Averages | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0813.md) | ✓ | - |
 | 816. | Ambiguous Coordinates | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0816.md) | ✓ | - |
 | 820. | Short Encoding of Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0820.md) | ✓ | - |
+| 822. | Card Flipping Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0822.md) | ✓ | - |
 | 885. | Spiral Matrix III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0885.md) | ✓ | ✓ |
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0930.md) | ✓ | ✓ |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2284.md) | ✓ | ✓ |
