@@ -7,7 +7,7 @@ This repository is a place to share solutions to Leetcode questions using Python
 
 | [Easy](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/01-easy) | [Medium](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/02-medium) | [Hard](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/03-hard) |
 |:----:|:------:|:----:|
-|  35  |   66   |  19  |
+|  34  |   67   |  19  |
 
 
 ## Total SQL Questions : 3
