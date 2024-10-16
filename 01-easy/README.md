@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 18
+## Total : 19
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -21,6 +21,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 697. | Degree of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0697.md) | ✓ | ✓ |
 | 704. | Binary Search | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q0704.md) | ✓ | ✓ |
 | 2269. | Find the K-Beauty of a Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2269.md) | ✓ | ✓ |
+| 2309. | Greatest English Letter in Upper and Lower Case | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2309.md) | ✓ | - |
 | 2315. | Count Asterisks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2315.md) | ✓ | - |
 | 2319. | Check if Matrix Is X-Matrix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2319.md) | ✓ | ✓ |
 | 2325. | Decode the Message | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2325.md) | ✓ | - |
