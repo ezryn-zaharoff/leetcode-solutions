@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 41
+## Total : 42
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -41,6 +41,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 451. | Sort Characters By Frequency | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0451.md) | ✓ | - |
 | 560. | Subarray Sum Equals K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0560.md) | - | ✓ |
 | 713. | Subarray Product Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0713.md) | ✓ | ✓ |
+| 799. | Champagne Tower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0799.md) | ✓ | - |
 | 885. | Spiral Matrix III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0885.md) | ✓ | ✓ |
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0930.md) | ✓ | ✓ |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2284.md) | ✓ | ✓ |
