@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 57
+## Total : 58
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -59,6 +59,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 2270. | Number of Ways to Split Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2270.md) | ✓ | - |
 | 2271. | Maximum White Tiles Covered by a Carpet | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2271.md) | ✓ | - |
 | 2274. | Maximum Consecutive Floors Without Special Floors | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2274.md) | ✓ | - |
+| 2275. | Maximum Consecutive Floors Without Special Floors | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2275.md) | ✓ | - |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2284.md) | ✓ | ✓ |
 | 2327. | Number of People Aware of a Secret | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2327.md) | ✓ | ✓ |
 | 2332. | The Latest Time to Catch a Bus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2332.md) | ✓ | ✓ |
