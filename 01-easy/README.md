@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 24
+## Total : 25
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -24,6 +24,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2303. | Calculate Amount Paid in Taxes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2303.md) | ✓ | - |
 | 2129. | Capitalize the Title | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2129.md) | ✓ | - |
 | 2221. | Find Triangular Sum of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2221.md) | ✓ | - |
+| 2248. | Intersection of Multiple Arrays | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2248.md) | ✓ | - |
 | 2293. | Min Max Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2293.md) | ✓ | - |
 | 2299. | Strong Password Checker II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2299.md) | ✓ | - |
 | 2309. | Greatest English Letter in Upper and Lower Case | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/easy/Q2309.md) | ✓ | - |
