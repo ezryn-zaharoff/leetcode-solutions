@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 44
+## Total : 45
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -44,6 +44,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 799. | Champagne Tower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0799.md) | ✓ | - |
 | 807. | Max Increase to Keep City Skyline | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0807.md) | ✓ | - |
 | 808. | Soup Servings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0808.md) | ✓ | - |
+| 811. | Subdomain Visit Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0811.md) | ✓ | - |
 | 885. | Spiral Matrix III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0885.md) | ✓ | ✓ |
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0930.md) | ✓ | ✓ |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2284.md) | ✓ | ✓ |
