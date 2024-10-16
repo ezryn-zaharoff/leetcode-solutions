@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 59
+## Total : 60
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -61,6 +61,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 2274. | Maximum Consecutive Floors Without Special Floors | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2274.md) | ✓ | - |
 | 2275. | Largest Combination With Bitwise AND Greater Than Zero | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2275.md) | ✓ | - |
 | 2279. | Maximum Bags With Full Capacity of Rocks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2279.md) | ✓ | - |
+| 2280. | Minimum Lines to Represent a Line Chart | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2280.md) | ✓ | - |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2284.md) | ✓ | ✓ |
 | 2327. | Number of People Aware of a Secret | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2327.md) | ✓ | ✓ |
 | 2332. | The Latest Time to Catch a Bus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2332.md) | ✓ | ✓ |
