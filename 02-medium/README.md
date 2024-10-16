@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 64
+## Total : 65
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -67,6 +67,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 2288. | Apply Discount to Prices | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2288.md) | ✓ | - |
 | 2289. | Steps to Make Array Non-decreasing | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2289.md) | ✓ | - |
 | 2294. | Partition Array Such That Maximum Difference Is K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2294.md) | ✓ | - |
+| 2295. | Replace Elements in an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2295.md) | ✓ | - |
 | 2327. | Number of People Aware of a Secret | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2327.md) | ✓ | ✓ |
 | 2332. | The Latest Time to Catch a Bus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2332.md) | ✓ | ✓ |
 | 2337. | Move Pieves to Obtain a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2337.md) | ✓ | ✓ |
