@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 51
+## Total : 52
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -51,6 +51,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 822. | Card Flipping Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0822.md) | ✓ | - |
 | 825. | Friends Of Appropriate Ages | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0825.md) | ✓ | - |
 | 826. | Most Profit Assigning Work | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0826.md) | ✓ | - |
+| 880. | Decoded String at Index | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0880.md) | ✓ | - |
 | 885. | Spiral Matrix III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0885.md) | ✓ | ✓ |
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0930.md) | ✓ | ✓ |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2284.md) | ✓ | ✓ |
