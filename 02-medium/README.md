@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 53
+## Total : 54
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -55,6 +55,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 881. | Boats to Save People | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0881.md) | ✓ | - |
 | 885. | Spiral Matrix III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0885.md) | ✓ | ✓ |
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q0930.md) | ✓ | ✓ |
+| 2266. | Count Number of Texts | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2266.md) | ✓ | - |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2284.md) | ✓ | ✓ |
 | 2327. | Number of People Aware of a Secret | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2327.md) | ✓ | ✓ |
 | 2332. | The Latest Time to Catch a Bus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/medium/Q2332.md) | ✓ | ✓ |
