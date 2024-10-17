@@ -69,7 +69,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 2289. | Steps to Make Array Non-decreasing | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2289.md) | ✓ | - |
 | 2294. | Partition Array Such That Maximum Difference Is K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2294.md) | ✓ | ✓ |
 | 2295. | Replace Elements in an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2295.md) | ✓ | - |
-| 2300. | Successful Pairs of Spells and Potions | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2300.md) | ✓ | - |
+| 2300. | Successful Pairs of Spells and Potions | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2300.md) | ✓ | ✓ |
 | 2327. | Number of People Aware of a Secret | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2327.md) | ✓ | ✓ |
 | 2332. | The Latest Time to Catch a Bus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2332.md) | ✓ | ✓ |
 | 2337. | Move Pieves to Obtain a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2337.md) | ✓ | ✓ |
