@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 40
+## Total : 41
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -48,3 +48,4 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2325. | Decode the Message | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2325.md) | ✓ | - |
 | 2335. | Minimum Amount of Time to Fill Cups | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2335.md) | ✓ | ✓ |
 | 2341. | Maximum Number of Pairs in Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2341.md) | ✓ | ✓ |
+| 2460. | Apply Operations to an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2460.md) | ✓ | ✓ |
