@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 67
+## Total : 68
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -33,6 +33,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 56. | Merge Intervals | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0056.md) | ✓ | ✓ |
 | 59. | Spiral Matrix II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0059.md) | ✓ | - |
 | 78. | Subsets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0078.md) | ✓ | - |
+| 80. | Remove Duplicates from Sorted Array II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0080.md) | - | ✓ |
 | 90. | Subsets II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0090.md) | ✓ | - |
 | 137. | Single Number II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0137.md) | ✓ | - |
 | 151. | Reverse Words In A String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0151.md) | ✓ | ✓ |
