@@ -6,8 +6,8 @@ This section is a compilation of solutions for easy Leetcode questions.
 ## Total : 50
 
 
-| No. | Question | Solution | Python3 | Java | JavaScript |
-|:---:|----------|:--------:|:-------:|:----:|:----------:|
+| No. | Question | Solution | Python3 | Java | JavaScript | C++ |
+|:---:|----------|:--------:|:-------:|:----:|:----------:|:---:|
 | 01. | Two Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0001.md) | ✓ | ✓ |
 | 09. | Palindrome Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0009.md) | ✓ | ✓ |
 | 13. | Roman To Integer | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0013.md) | ✓ | ✓ |
@@ -22,7 +22,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 217. | Contains Duplicate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0217.md) | ✓ | ✓|
 | 219. | Contains Duplicate II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0219.md) | ✓ | ✓ |
 | 258. | Add Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0258.md) | ✓ | ✓ |
-| 278. | First Bad Version | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0278.md) | ✓ | ✓ | ✓ |
+| 278. | First Bad Version | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0278.md) | ✓ | ✓ | ✓ | ✓ |
 | 283. | Move Zeroes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0283.md) | ✓ | ✓ |
 | 344. | Reverse String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0344.md) | ✓ | ✓ |
 | 541. | Reverse String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0541.md) | ✓ | ✓ |
