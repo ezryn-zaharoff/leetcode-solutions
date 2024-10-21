@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 85
+## Total : 86
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ |
@@ -66,6 +66,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 819. | Most Common Word | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0819.md) | ✓ | - |
 | 821. | Shortest Distance to a Character | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0824.md) | ✓ | - |
 | 824. | Goat Latin | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0824.md) | ✓ | - |
+| 859. | Buddy Strings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0859.md) | ✓ | - |
 | 1295. | Find Numbers with Even Number of Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1295.md) | ✓ | ✓ |
 | 1455. | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1455.md) | ✓ | ✓ |
 | 1961. | Check If String Is a Prefix of Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1961.md) | ✓ | ✓ |
