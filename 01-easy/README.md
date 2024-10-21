@@ -6,8 +6,8 @@ This section is a compilation of solutions for easy Leetcode questions.
 ## Total : 51
 
 
-| No. | Question | Solution | Python3 | Java | JS | C++ |
-|:---:|----------|:--------:|:-------:|:----:|:--:|:---:|
+| No. | Question | Solution | Python3 | Java | JavaS | C++ |
+|:---:|----------|:--------:|:-------:|:----:|:-----:|:---:|
 | 01. | Two Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0001.md) | ✓ | ✓ |
 | 09. | Palindrome Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0009.md) | ✓ | ✓ |
 | 13. | Roman To Integer | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0013.md) | ✓ | ✓ |
