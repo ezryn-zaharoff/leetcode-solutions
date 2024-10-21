@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 64
+## Total : 65
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ |
@@ -41,6 +41,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 541. | Reverse String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0541.md) | ✓ | ✓ |
 | 551. | Student Attendance Record I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0551.md) | ✓ | - |
 | 557. | Reverse Words In A String III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0557.md) | ✓ | ✓ |
+| 594. | Longest Harmonious Subsequence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0594.md) | ✓ | - |
 | 682. | Baseball Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0682.md) | ✓ | ✓ |
 | 693. | Binary Number with Alternating Bits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0693.md) | ✓ | ✓ |
 | 697. | Degree of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0697.md) | ✓ | ✓ |
