@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 89
+## Total : 90
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ |
@@ -21,6 +21,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 58. | Length of Last Word | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0058.md) | ✓ | ✓ |
 | 66. | Plus One | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0066.md) | ✓ | ✓ | ✓ | ✓ |
 | 67. | Add Binary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0067.md) | ✓ | - |
+| 69. | Sqrt(x) | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0069.md) | ✓ | - |
 | 88. | Merge Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0088.md) | ✓ | - |
 | 118. | Pascal's Triangle | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0118.md) | ✓ | - |
 | 119. | Pascal's Triangle II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0119.md) | ✓ | - |
