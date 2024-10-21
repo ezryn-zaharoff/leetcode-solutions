@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 92
+## Total : 93
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ |
@@ -37,6 +37,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 344. | Reverse String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0344.md) | ✓ | ✓ |
 | 374. | Guess Number Higher or Lower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0374.md) | ✓ | ✓ | ✓ | ✓ |
 | 448. | Find All Numbers Disappeared in an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0448.md) | ✓ | - |
+| 459. | Repeated Substring Pattern | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0459.md) | ✓ | - |
 | 504. | Base 7 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0504.md) | ✓ | - |
 | 506. | Relative Ranks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0506.md) | ✓ | - |
 | 507. | Perfect Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0507.md) | ✓ | - |
