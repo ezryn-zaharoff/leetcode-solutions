@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 74
+## Total : 75
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ |
@@ -53,6 +53,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 680. | Valid Palindrome II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0680.md) | ✓ | - |
 | 682. | Baseball Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0682.md) | ✓ | ✓ |
 | 693. | Binary Number with Alternating Bits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0693.md) | ✓ | ✓ |
+| 696. | Count Binary Substrings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0696.md) | ✓ | - |
 | 697. | Degree of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0697.md) | ✓ | ✓ |
 | 704. | Binary Search | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0704.md) | ✓ | ✓ |
 | 1295. | Find Numbers with Even Number of Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1295.md) | ✓ | ✓ |
