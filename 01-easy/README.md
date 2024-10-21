@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 59
+## Total : 60
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ |
@@ -34,6 +34,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 374. | Guess Number Higher or Lower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0374.md) | ✓ | ✓ | ✓ | ✓ |
 | 448. | Find All Numbers Disappeared in an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0448.md) | ✓ | - |
 | 504. | Base 7 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0504.md) | ✓ | - |
+| 506. | Relative Ranks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0506.md) | ✓ | - |
 | 541. | Reverse String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0541.md) | ✓ | ✓ |
 | 557. | Reverse Words In A String III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0557.md) | ✓ | ✓ |
 | 682. | Baseball Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0682.md) | ✓ | ✓ |
