@@ -3,11 +3,11 @@
 This repository is a place to share solutions to Leetcode questions using Python3, Java, JavaScript, C++ and SQL.
 
 
-## Total Non-SQL Questions: 166
+## Total Non-SQL Questions: 167
 
 | [Easy](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/01-easy) | [Medium](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/02-medium) | [Hard](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/03-hard) |
 |:----:|:------:|:----:|
-|  77  |   70   |  19  |
+|  78  |   70   |  19  |
 
 
 ## Total SQL Questions : 3
