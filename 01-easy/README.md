@@ -67,7 +67,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 821. | Shortest Distance to a Character | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0824.md) | ✓ | - |
 | 824. | Goat Latin | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0824.md) | ✓ | - |
 | 859. | Buddy Strings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0859.md) | ✓ | - |
-| 860. | Lemonade Change | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0860.md) | ✓ | ✓ | ✓ |
+| 860. | Lemonade Change | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0860.md) | ✓ | ✓ | ✓ | ✓ |
 | 896. | Monotonic Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0896.md) | ✓ | - |
 | 1295. | Find Numbers with Even Number of Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1295.md) | ✓ | ✓ |
 | 1455. | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1455.md) | ✓ | ✓ |
