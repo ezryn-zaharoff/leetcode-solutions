@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 45
+## Total : 46
 
 
 | No. | Question | Solution | Python3 | Java |
@@ -14,6 +14,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 14. | Longest Common Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0014.md) | ✓ | ✓ |
 | 20. | Valid Parentheses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0020.md) | ✓ | ✓ |
 | 26. | Remove Duplicates from Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0026.md) | ✓ | ✓ |
+| 27. | Remove Element | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0027.md) | ✓ | - |
 | 58. | Length of Last Word | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0058.md) | ✓ | ✓ |
 | 217. | Contains Duplicate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0217.md) | ✓ | ✓|
 | 219. | Contains Duplicate II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0219.md) | ✓ | ✓ |
