@@ -25,7 +25,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 278. | First Bad Version | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0278.md) | ✓ | ✓ | ✓ | ✓ |
 | 283. | Move Zeroes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0283.md) | ✓ | ✓ |
 | 344. | Reverse String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0344.md) | ✓ | ✓ |
-| 374. | Guess Number Higher or Lower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0374.md) | ✓ | - |
+| 374. | Guess Number Higher or Lower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0374.md) | ✓ | ✓ |
 | 541. | Reverse String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0541.md) | ✓ | ✓ |
 | 557. | Reverse Words In A String III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0557.md) | ✓ | ✓ |
 | 682. | Baseball Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0682.md) | ✓ | ✓ |
