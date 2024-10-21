@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 69
+## Total : 70
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ |
@@ -46,6 +46,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 599. | Minimum Index Sum of Two Lists | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0599.md) | ✓ | - |
 | 605. | Can Place Flowers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0605.md) | ✓ | - |
 | 628. | Maximum Product of Three Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0628.md) | ✓ | - |
+| 645. | Set Mismatch | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0645.md) | ✓ | - |
 | 682. | Baseball Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0682.md) | ✓ | ✓ |
 | 693. | Binary Number with Alternating Bits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0693.md) | ✓ | ✓ |
 | 697. | Degree of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0697.md) | ✓ | ✓ |
