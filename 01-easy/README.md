@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 52
+## Total : 53
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ |
@@ -20,6 +20,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 58. | Length of Last Word | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0058.md) | ✓ | ✓ |
 | 66. | Plus One | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0066.md) | ✓ | ✓ | ✓ | ✓ |
 | 67. | Add Binary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0067.md) | ✓ | - |
+| 88. | Merge Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0088.md) | ✓ | - |
 | 217. | Contains Duplicate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0217.md) | ✓ | ✓|
 | 219. | Contains Duplicate II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0219.md) | ✓ | ✓ |
 | 258. | Add Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0258.md) | ✓ | ✓ |
