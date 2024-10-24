@@ -27,7 +27,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 88. | Merge Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0088.md) | ✓ | - |
 | 118. | Pascal's Triangle | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0118.md) | ✓ | - |
 | 119. | Pascal's Triangle II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0119.md) | ✓ | - |
-| 121. | Best Time to Buy and Sell Stock | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0121.md) | ✓ | ✓ |
+| 121. | Best Time to Buy and Sell Stock | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0121.md) | ✓ | ✓ | ✓ |
 | 125. | Valid Palindrome | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0125.md) | ✓ | - |
 | 136. | Single Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0136.md) | ✓ | - |
 | 217. | Contains Duplicate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0217.md) | ✓ | ✓ |
