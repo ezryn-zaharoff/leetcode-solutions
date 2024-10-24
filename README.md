@@ -1,6 +1,6 @@
 # Overview
 
-This repository is a place to share solutions to Leetcode questions using Python3, Java, JavaScript, C++ and SQL.
+This repository is a place to share solutions to Leetcode questions using Python3, Java, JavaScript, C++, Scala and SQL.
 
 
 ## Total Non-SQL Questions: 194
