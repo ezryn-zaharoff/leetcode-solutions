@@ -24,6 +24,6 @@ This section is a compilation of solutions for hard Leetcode questions.
 | 2267. | Check if There Is a Valid Parentheses String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2267.md) | ✓ | - |
 | 2272. | Substring With Largest Variance | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2272.md) | ✓ | - |
 | 2281. | Sum of Total Strength of Wizards | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2281.md) | ✓ | - |
-| 2302. | Count Subarrays With Score Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2302.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 2302. | Count Subarrays With Score Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2302.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2306. | Naming a Company | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2306.md) | ✓ | ✓ |
 | 2344. | Minimum Deletions to Make Array Divisible | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2306.md) | ✓ | ✓ |
