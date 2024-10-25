@@ -6,8 +6,8 @@ This section is a compilation of solutions for medium Leetcode questions.
 ## Total : 73
 
 
-| No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala |
-|:---:|----------|:--------:|:-------:|:----:|:-----:|:---:|:-----:|
+| No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go |
+|:---:|----------|:--------:|:-------:|:----:|:-----:|:---:|:-----:|:--:|
 | 03. | Longest Substring Without Repeating Characters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0003.md) | ✓ | ✓ |
 | 05. | Longest Palindromic Substring | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0005.md) | ✓ | ✓ |
 | 06. | Zigzag Conversion | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0006.md) | ✓ | ✓ |
@@ -59,7 +59,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 881. | Boats to Save People | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0881.md) | ✓ | - |
 | 885. | Spiral Matrix III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0885.md) | ✓ | ✓ |
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0930.md) | ✓ | ✓ |
-| 978. | Longest Turbulent Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0978.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 978. | Longest Turbulent Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0978.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2221. | Find Triangular Sum of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2221.md) | ✓ | ✓ |
 | 2266. | Count Number of Texts | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2266.md) | ✓ | - |
 | 2270. | Number of Ways to Split Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2270.md) | ✓ | ✓ |
