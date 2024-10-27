@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 107
+## Total : 108
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go |
@@ -115,3 +115,4 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2810. | Faulty Keyboard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2810.md) | ✓ | ✓ |
 | 3168. | Minimum Number of Chairs in a Waiting Room | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3168.md) | ✓ | ✓ | ✓ | ✓ |
 | 3232. | Find if Digit Game Can Be Won | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3232.md) | ✓ | ✓ |
+| 3330. | Find the Original Typed String I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3330.md) | ✓ | - |
