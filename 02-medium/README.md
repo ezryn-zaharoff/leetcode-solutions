@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 75
+## Total : 76
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go |
@@ -62,6 +62,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 885. | Spiral Matrix III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0885.md) | ✓ | ✓ |
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0930.md) | ✓ | ✓ |
 | 978. | Longest Turbulent Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0978.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 1780. | Check if Number is a Sum of Powers of Three | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1780.md) | ✓ | - |
 | 2221. | Find Triangular Sum of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2221.md) | ✓ | ✓ |
 | 2266. | Count Number of Texts | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2266.md) | ✓ | - |
 | 2270. | Number of Ways to Split Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2270.md) | ✓ | ✓ |
