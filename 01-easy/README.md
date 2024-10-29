@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 115
+## Total : 116
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go |
@@ -90,6 +90,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 1119. | Remove Vowels from a String 🔒 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1119.md) | ✓ | ✓ | - | ✓ | - | ✓ |
 | 1295. | Find Numbers with Even Number of Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1295.md) | ✓ | ✓ |
 | 1385. | Find the Distance Value Between Two Arrays | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1385.md) | ✓ | ✓ |
+| 1389. | Create Target Array in the Given Order | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1389.md) | ✓ | - |
 | 1446. | Consecutive Characters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1446.md) | ✓ | ✓ | ✓ | ✓ |
 | 1455. | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1455.md) | ✓ | ✓ |
 | 1961. | Check If String Is a Prefix of Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1961.md) | ✓ | ✓ |
