@@ -81,7 +81,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 2300. | Successful Pairs of Spells and Potions | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2300.md) | ✓ | ✓ |
 | 2327. | Number of People Aware of a Secret | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2327.md) | ✓ | ✓ |
 | 2332. | The Latest Time to Catch a Bus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2332.md) | ✓ | ✓ |
-| 2337. | Move Pieves to Obtain a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2337.md) | ✓ | ✓ | ✓ |
+| 2337. | Move Pieves to Obtain a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2337.md) | ✓ | ✓ | ✓ | ✓ |
 | 2342. | Max Sum of a Pair With Equal Sum of Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2342.md) | ✓ | ✓ |
 | 2343. | Query Kth Smallest Trimmed Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2343.md) | ✓ | ✓ |
 | 2545. | Sort the Students by Their Kth Score | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2545.md) | ✓ | ✓ |
