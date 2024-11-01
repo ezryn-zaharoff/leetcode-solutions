@@ -104,7 +104,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2264. | Largest 3-Same-Digit Number in String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2264.md) | ✓ | - |
 | 2269. | Find the K-Beauty of a Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2269.md) | ✓ | ✓ |
 | 2273. | Find Resultant Array After Removing Anagrams | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2273.md) | ✓ | - |
-| 2278. | Percentage of Letter in String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2278.md) | ✓ | ✓ |
+| 2278. | Percentage of Letter in String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2278.md) | ✓ | ✓ | ✓ |
 | 2283. | Check if Number Has Equal Digit Count and Digit Value | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2283.md) | ✓ | - |
 | 2287. | Rearrange Characters to Make Target String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2287.md) | ✓ | - |
 | 2293. | Min Max Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2293.md) | ✓ | - |
