@@ -35,7 +35,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 219. | Contains Duplicate II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0219.md) | ✓ | ✓ |
 | 231. | Power of Two | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0231.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 258. | Add Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0258.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 278. | First Bad Version | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0278.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 278. | First Bad Version | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0278.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 283. | Move Zeroes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0283.md) | ✓ | ✓ |
 | 326. | Power of Three | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0326.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 342. | Power of Four | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0342.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
