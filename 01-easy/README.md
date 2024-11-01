@@ -30,7 +30,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 121. | Best Time to Buy and Sell Stock | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0121.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 125. | Valid Palindrome | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0125.md) | ✓ | - |
 | 136. | Single Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0136.md) | ✓ | - |
-| 169. | Majority Element | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0169.md) | ✓ | ✓ |
+| 169. | Majority Element | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0169.md) | ✓ | ✓ | ✓ |
 | 217. | Contains Duplicate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0217.md) | ✓ | ✓ |
 | 219. | Contains Duplicate II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0219.md) | ✓ | ✓ |
 | 231. | Power of Two | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0231.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
