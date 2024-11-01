@@ -84,7 +84,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 830. | Positions of Large Groups | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0830.md) | ✓ | ✓ | ✓ | ✓ |
 | 859. | Buddy Strings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0859.md) | ✓ | - |
 | 860. | Lemonade Change | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0860.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 896. | Monotonic Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0896.md) | ✓ | - |
+| 896. | Monotonic Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0896.md) | ✓ | ✓ |
 | 905. | Sort Array By Parity | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0905.md) | ✓ | ✓ |
 | 917. | Reverse Only Letters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0917.md) | ✓ | - |
 | 1119. | Remove Vowels from a String 🔒 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1119.md) | ✓ | ✓ | - | ✓ | - | ✓ |
