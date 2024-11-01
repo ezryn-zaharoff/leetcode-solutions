@@ -2,6 +2,12 @@
 
 This repository is a place to share solutions to Leetcode questions using Python3, Java, JavaScript, C++, Scala, Go and SQL.
 
+I am only able to add the solutions when I have time, therefore I ask for your understanding.
+
+In the meantime, please go ahead and go through the available solutions at your leisure.
+
+Thank you.
+
 
 ## Total Non-SQL Questions: 215
 
