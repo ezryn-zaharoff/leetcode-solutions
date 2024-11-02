@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 78
+## Total : 79
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go |
@@ -48,6 +48,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 560. | Subarray Sum Equals K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0560.md) | ✓ | ✓ |
 | 648. | Replace Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0648.md) | ✓ | ✓ | ✓ |
 | 713. | Subarray Product Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0713.md) | ✓ | ✓ |
+| 735. | Asteroid Collision | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0735.md) | ✓ | - |
 | 799. | Champagne Tower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0799.md) | ✓ | - |
 | 807. | Max Increase to Keep City Skyline | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0807.md) | ✓ | - |
 | 808. | Soup Servings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0808.md) | ✓ | - |
