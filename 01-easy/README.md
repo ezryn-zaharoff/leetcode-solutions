@@ -109,7 +109,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2287. | Rearrange Characters to Make Target String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2287.md) | ✓ | - |
 | 2293. | Min Max Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2293.md) | ✓ | - |
 | 2299. | Strong Password Checker II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2299.md) | ✓ | - |
-| 2303. | Calculate Amount Paid in Taxes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2303.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 2303. | Calculate Amount Paid in Taxes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2303.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2309. | Greatest English Letter in Upper and Lower Case | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2309.md) | ✓ | - |
 | 2315. | Count Asterisks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2315.md) | ✓ | - |
 | 2319. | Check if Matrix Is X-Matrix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2319.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
