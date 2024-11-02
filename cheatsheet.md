@@ -13,3 +13,4 @@ This is a cheatsheet comparing the different languages.
 |  6. | For loop (list) | for num in nums | for (int num : nums) | for (let num of nums) | same as Java |
 |  7. | For loop (string) | for ch in s | for (char ch : s.toCharArray()) | for (const ch of s) | for (char & ch : s) | for (ch <- s) | for _, ch := range s |
 |  8. | Maximum | max() | Math.max() | Math.max() | max() |
+|  9. | Sort | .sort() | Arrays.sort() | .sort(function(a, b){return a-b}) | sort(nums.begin(), nums.end()) |
