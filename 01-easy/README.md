@@ -123,7 +123,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2460. | Apply Operations to an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2460.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2465. | Number of Distinct Averages | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2465.md) | ✓ | - |
 | 2810. | Faulty Keyboard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2810.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 3065. | Minimum Operations to Exceed Threshold Value I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3065.md) | ✓ | ✓ | ✓ |
+| 3065. | Minimum Operations to Exceed Threshold Value I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3065.md) | ✓ | ✓ | ✓ | ✓ |
 | 3168. | Minimum Number of Chairs in a Waiting Room | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3168.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 3194. | Minimum Average of Smallest and Largest Elements | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3194.md) | ✓ | - |
 | 3232. | Find if Digit Game Can Be Won | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3232.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
