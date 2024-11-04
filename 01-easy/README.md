@@ -122,7 +122,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2418. | Sort the People | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2418.md) | ✓ | ✓ |
 | 2460. | Apply Operations to an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2460.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2465. | Number of Distinct Averages | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2465.md) | ✓ | - |
-| 2798. | Number of Employees Who Met the Target | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2798.md) | ✓ | - |
+| 2798. | Number of Employees Who Met the Target | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2798.md) | ✓ | ✓ |
 | 2810. | Faulty Keyboard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2810.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 3065. | Minimum Operations to Exceed Threshold Value I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3065.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 3168. | Minimum Number of Chairs in a Waiting Room | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3168.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
