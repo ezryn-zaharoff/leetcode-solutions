@@ -120,7 +120,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2325. | Decode the Message | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2325.md) | ✓ | - |
 | 2335. | Minimum Amount of Time to Fill Cups | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2335.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2341. | Maximum Number of Pairs in Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2341.md) | ✓ | ✓ |
-| 2418. | Sort the People | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2418.md) | ✓ | ✓ | ✓ | ✓ |
+| 2418. | Sort the People | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2418.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2460. | Apply Operations to an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2460.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2465. | Number of Distinct Averages | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2465.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2798. | Number of Employees Who Met the Target | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2798.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
