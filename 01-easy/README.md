@@ -87,7 +87,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 896. | Monotonic Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0896.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 905. | Sort Array By Parity | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0905.md) | ✓ | ✓ |
 | 917. | Reverse Only Letters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0917.md) | ✓ | - |
-| 977. | Squares of a Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0977.md) | ✓ | ✓ | ✓ | ✓ |
+| 977. | Squares of a Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0977.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1119. | Remove Vowels from a String 🔒 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1119.md) | ✓ | ✓ | - | ✓ | - | ✓ |
 | 1295. | Find Numbers with Even Number of Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1295.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1385. | Find the Distance Value Between Two Arrays | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1385.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
