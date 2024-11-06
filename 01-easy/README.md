@@ -81,7 +81,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 819. | Most Common Word | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0819.md) | ✓ | - |
 | 821. | Shortest Distance to a Character | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0824.md) | ✓ | - |
 | 824. | Goat Latin | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0824.md) | ✓ | - |
-| 830. | Positions of Large Groups | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0830.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 830. | Positions of Large Groups | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0830.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 859. | Buddy Strings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0859.md) | ✓ | - |
 | 860. | Lemonade Change | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0860.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 896. | Monotonic Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0896.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
