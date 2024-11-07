@@ -21,7 +21,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 18. | 4Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0018.md) | ✓ | - |
 | 19. | Remove Nth Node From End of List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0019.md) | ✓ | - |
 | 22. | Generate Parentheses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0022.md) | ✓ | - |
-| 29. | Divide Two Integers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0029.md) | ✓ | ✓ | ✓ | ✓ |
+| 29. | Divide Two Integers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0029.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 31. | Next Permutation | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0031.md) | ✓ | - |
 | 33. | Search in Rotated Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0033.md) | ✓ | - |
 | 34. | Find First and Last Position of Element in Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0034.md) | ✓ | - |
