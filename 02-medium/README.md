@@ -49,7 +49,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 186. | Reverse Words In A String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0186.md) | ✓ | ✓ |
 | 189. | Rotate Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0189.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 198. | House Robber | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0198.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 280. | Wiggle Sort 🔒 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0280.md) | ✓ | ✓ | ✓ | ✓ |  | ✓ |
+| 280. | Wiggle Sort 🔒 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0280.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 451. | Sort Characters By Frequency | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0451.md) | ✓ | - |
 | 560. | Subarray Sum Equals K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0560.md) | ✓ | ✓ |
 | 648. | Replace Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0648.md) | ✓ | ✓ | ✓ |
