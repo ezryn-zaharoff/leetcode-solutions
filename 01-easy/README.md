@@ -115,7 +115,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2299. | Strong Password Checker II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2299.md) | ✓ | - |
 | 2303. | Calculate Amount Paid in Taxes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2303.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2309. | Greatest English Letter in Upper and Lower Case | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2309.md) | ✓ | - |
-| 2315. | Count Asterisks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2315.md) | ✓ | ✓ | ✓ | ✓ |
+| 2315. | Count Asterisks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2315.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2319. | Check if Matrix Is X-Matrix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2319.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2325. | Decode the Message | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2325.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2335. | Minimum Amount of Time to Fill Cups | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2335.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
