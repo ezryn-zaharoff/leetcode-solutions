@@ -16,7 +16,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 21. | Merge Two Sorted Lists | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0021.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 26. | Remove Duplicates from Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0026.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 27. | Remove Element | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0027.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 28. | Find the Index of the First Occurrence in a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0028.md) | ✓ | ✓ | ✓ |
+| 28. | Find the Index of the First Occurrence in a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0028.md) | ✓ | ✓ | ✓ |  |  | ✓ |
 | 35. | Search Insert Position | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0035.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 58. | Length of Last Word | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0058.md) | ✓ | ✓ |
 | 66. | Plus One | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0066.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
