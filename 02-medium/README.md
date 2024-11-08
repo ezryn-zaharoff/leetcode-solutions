@@ -53,7 +53,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 324. | Wiggle Sort II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0324.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 451. | Sort Characters By Frequency | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0451.md) | ✓ | - |
 | 560. | Subarray Sum Equals K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0560.md) | ✓ | ✓ |
-| 648. | Replace Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0648.md) | ✓ | ✓ | ✓ |  | ✓ |
+| 648. | Replace Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0648.md) | ✓ | ✓ | ✓ |  | ✓ | ✓ |
 | 713. | Subarray Product Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0713.md) | ✓ | ✓ |
 | 735. | Asteroid Collision | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0735.md) | ✓ | - |
 | 799. | Champagne Tower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0799.md) | ✓ | - |
