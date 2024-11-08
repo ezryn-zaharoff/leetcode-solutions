@@ -15,7 +15,7 @@ This section is a compilation of solutions for hard Leetcode questions.
 | 37. | Sudoku Solver | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0037.md) | ✓ | - |
 | 41. | First Missing Positive | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0041.md) | ✓ | ✓ |
 | 42. | Trapping Rain Water | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0042.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 44. | Wildcard Matching | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0044.md) | ✓ | ✓ | ✓ |
+| 44. | Wildcard Matching | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0044.md) | ✓ | ✓ | ✓ | ✓ |
 | 815. | Bus Routes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0815.md) | ✓ | - |
 | 818. | Race Car | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0818.md) | ✓ | - |
 | 827. | Making A Large Island | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0827.md) | ✓ | - |
