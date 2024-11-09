@@ -9,7 +9,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go |
 |:---:|----------|:--------:|:-------:|:----:|:-----:|:---:|:-----:|:--:|
 | 01. | Two Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0001.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 09. | Palindrome Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0009.md) | ✓ | ✓ |
+| 09. | Palindrome Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0009.md) | ✓ | ✓ | ✓ |
 | 13. | Roman To Integer | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0013.md) | ✓ | ✓ |
 | 14. | Longest Common Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0014.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 20. | Valid Parentheses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0020.md) | ✓ | ✓ |
