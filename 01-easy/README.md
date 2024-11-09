@@ -46,7 +46,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 459. | Repeated Substring Pattern | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0459.md) | ✓ | - |
 | 485. | Max Consecutive Ones | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0485.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 500. | Keyboard Row | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0500.md) | ✓ | - |
-| 504. | Base 7 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0504.md) | ✓ | - |
+| 504. | Base 7 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0504.md) | ✓ | ✓ |
 | 506. | Relative Ranks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0506.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 507. | Perfect Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0507.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 509. | Fibonacci Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0509.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
