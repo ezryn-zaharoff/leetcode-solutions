@@ -39,7 +39,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 75. | Sort Colors | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0075.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 78. | Subsets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0078.md) | ✓ | - |
 | 80. | Remove Duplicates from Sorted Array II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0080.md) | - | ✓ |
-| 82. | Remove Duplicates from Sorted List II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0082.md) | ✓ | ✓ | ✓ | ✓ |  | ✓ |
+| 82. | Remove Duplicates from Sorted List II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0082.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 90. | Subsets II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0090.md) | ✓ | - |
 | 122. | Best Time to Buy and Sell Stock II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0122.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 137. | Single Number II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0137.md) | ✓ | - |
