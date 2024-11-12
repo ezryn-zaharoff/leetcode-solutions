@@ -93,7 +93,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 1385. | Find the Distance Value Between Two Arrays | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1385.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1389. | Create Target Array in the Given Order | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1389.md) | ✓ | - |
 | 1446. | Consecutive Characters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1446.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 1455. | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1455.md) | ✓ | ✓ |
+| 1455. | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1455.md) | ✓ | ✓ | ✓ |
 | 1572. | Matrix Diagonal Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1572.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1678. | Goal Parser Interpretation | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1678.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1961. | Check If String Is a Prefix of Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1961.md) | ✓ | ✓ |
