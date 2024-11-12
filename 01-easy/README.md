@@ -61,7 +61,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 605. | Can Place Flowers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0605.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 628. | Maximum Product of Three Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0628.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 645. | Set Mismatch | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0645.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 657. | Robot Return to Origin | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0657.md) | ✓ | - |
+| 657. | Robot Return to Origin | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0657.md) | ✓ | ✓ |
 | 661. | Image Smoother | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0661.md) | ✓ | - |
 | 674. | Longest Continuous Increasing Subsequence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0674.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 680. | Valid Palindrome II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0680.md) | ✓ | - |
