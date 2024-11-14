@@ -6,8 +6,8 @@ This section is a compilation of solutions for easy Leetcode questions.
 ## Total : 125
 
 
-| No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# |
-|:---:|----------|:--------:|:-------:|:----:|:-----:|:---:|:-----:|:--:|:--:|
+| No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
+|:---:|----------|:--------:|:-------:|:----:|:-----:|:---:|:-----:|:--:|:--:|:-----:|
 | 01. | Two Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0001.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 09. | Palindrome Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0009.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 13. | Roman To Integer | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0013.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -96,7 +96,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 1455. | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1455.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1572. | Matrix Diagonal Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1572.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1678. | Goal Parser Interpretation | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1678.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 1961. | Check If String Is a Prefix of Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1961.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 1961. | Check If String Is a Prefix of Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1961.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2042. | Check if Numbers Are Ascending in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2042.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2129. | Capitalize the Title | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2129.md) | ✓ | ✓ |
 | 2138. | Divide a String Into Groups of Size k | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2138.md) | ✓ | ✓ |

@@ -1,6 +1,6 @@
 # Overview
 
-This repository is a place to share solutions to Leetcode questions using `Python3`, `Java`, `JavaScript`, `C++`, `Scala`, `Go`, `C#` and `SQL`.
+This repository is a place to share solutions to Leetcode questions using `Python3`, `Java`, `JavaScript`, `C++`, `Scala`, `Go`, `C#`, `Swift` and `SQL`.
 
 I am only able to add the solutions when I have time, therefore I ask for your understanding.
 
