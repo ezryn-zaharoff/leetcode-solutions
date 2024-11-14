@@ -98,7 +98,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 1678. | Goal Parser Interpretation | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1678.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1961. | Check If String Is a Prefix of Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1961.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2042. | Check if Numbers Are Ascending in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2042.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 2129. | Capitalize the Title | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2129.md) | ✓ | ✓ | ✓ |
+| 2129. | Capitalize the Title | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2129.md) | ✓ | ✓ | ✓ |  | ✓ |
 | 2138. | Divide a String Into Groups of Size k | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2138.md) | ✓ | ✓ |
 | 2185. | Counting Words With a Given Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2185.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2243. | Calculate Digit Sum of a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2243.md) | ✓ | ✓ |
