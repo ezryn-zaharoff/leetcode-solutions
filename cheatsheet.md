@@ -15,4 +15,4 @@ This is a cheatsheet comparing the different languages.
 |  8. | Maximum | max() | Math.max() | Math.max() | max() |
 |  9. | Sort | .sort() | Arrays.sort() | .sort(function(a, b){return a-b}) | sort(nums.begin(), nums.end()) | .sorted | sort.Ints() or sort.Strings() |
 |  10. | New array | ans = [] | int[] ans = new int[2] | let ans = [] | vector<int> ans | var ans = new Array[Int](2) | ans := []int{} or make([]int, 2) |
-|  11. | Starts with (string) | .startswith(sub) | .startsWith(sub) | same as Java | .starts_with(sub) | same as Java | .HasPrefix(words[i], sub) |
+|  11. | Starts with (string) | .startswith(sub) | .startsWith(sub) | same as Java | .starts_with(sub) | same as Java | strings.HasPrefix(words[i], sub) |
