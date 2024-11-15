@@ -82,7 +82,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 812. | Largest Triangle Area | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0812.md) | ✓ | - |
 | 819. | Most Common Word | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0819.md) | ✓ | - |
 | 821. | Shortest Distance to a Character | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0824.md) | ✓ | - |
-| 824. | Goat Latin | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0824.md) | ✓ | - |
+| 824. | Goat Latin | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0824.md) | ✓ | ✓ |
 | 830. | Positions of Large Groups | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0830.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 832. | Flipping an Image | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0832.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 859. | Buddy Strings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0859.md) | ✓ | - |
