@@ -77,7 +77,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 733. | Flood Fill | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0733.md) | ✓ | - |
 | 771. | Jewels and Stones | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0771.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 796. | Rotate String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0796.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 804. | Unique Morse Code Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0804.md) | ✓ | ✓ | ✓ | ✓ |
+| 804. | Unique Morse Code Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0804.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 806. | Number of Lines To Write String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0806.md) | ✓ | - |
 | 812. | Largest Triangle Area | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0812.md) | ✓ | - |
 | 819. | Most Common Word | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0819.md) | ✓ | - |
