@@ -17,4 +17,4 @@ This is a cheatsheet comparing the different languages.
 |  10. | New array | ans = [] | int[] ans = new int[2] | let ans = [] | vector<int> ans | var ans = new Array[Int](2) | ans := []int{} or make([]int, 2) |
 |  11. | Starts with (string) | .startswith(sub) | .startsWith(sub) | same as Java | .starts_with(sub) | same as Java | strings.HasPrefix(words[i], sub) | .StartsWith(sub) | .hasPrefix(sub) |
 |  12. | Substring | s[i:i+k] | s.substring(i,i+k) | same as Java | s.substr(i,i+k) |
-|  13. | Contains (substring) | sub in s | s.contains(sub) | s.includes(sub) | same as Java | same as Java | s.Contains(sub) | s.Contains(sub) | same as Java |
+|  13. | Contains (substring) | sub in s | s.contains(sub) | s.includes(sub) | same as Java | same as Java | s.Contains(sub) | same as Go | same as Java |
