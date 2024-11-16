@@ -99,7 +99,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 1446. | Consecutive Characters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1446.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1455. | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1455.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1572. | Matrix Diagonal Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1572.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 1598. | Crawler Log Folder | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1598.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 1598. | Crawler Log Folder | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1598.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1678. | Goal Parser Interpretation | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1678.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1961. | Check If String Is a Prefix of Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1961.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2042. | Check if Numbers Are Ascending in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2042.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
