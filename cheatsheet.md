@@ -18,3 +18,4 @@ This is a cheatsheet comparing the different languages.
 |  11. | Starts with (string) | .startswith(sub) | .startsWith(sub) | same as Java | .starts_with(sub) | same as Java | strings.HasPrefix(words[i], sub) | .StartsWith(sub) | .hasPrefix(sub) |
 |  12. | Substring | s[i:i+k] | s.substring(i,i+k) | same as Java | s.substr(i,k) |
 |  13. | Contains (substring) | sub in s | s.contains(sub) | s.includes(sub) | same as Java | same as Java | strings.Contains(s,sub) | s.Contains(sub) | same as Java |
+|  14. | Split (string) | s.split(":") | s.split(":") | same as Java | - | same as Java | strings.Split(s, ":") | s.Split(':') | s.split(separator: ":") |
