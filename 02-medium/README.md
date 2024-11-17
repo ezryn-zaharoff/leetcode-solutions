@@ -94,6 +94,6 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 2337. | Move Pieves to Obtain a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2337.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2342. | Max Sum of a Pair With Equal Sum of Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2342.md) | ✓ | ✓ |
 | 2343. | Query Kth Smallest Trimmed Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2343.md) | ✓ | ✓ |
-| 2390. | Removing Stars From a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2390.md) | ✓ | ✓ | ✓ |  |  |  | ✓ |  |
+| 2390. | Removing Stars From a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2390.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  |
 | 2545. | Sort the Students by Their Kth Score | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2545.md) | ✓ | ✓ |
 | 2611. | Mice and Cheese | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2611.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
