@@ -9,11 +9,11 @@ In the meantime, please go ahead and go through the available solutions at your 
 Thank you.
 
 
-## Total Non-SQL Questions: 238
+## Total Non-SQL Questions: 239
 
 | [Easy](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/01-easy) | [Medium](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/02-medium) | [Hard](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/03-hard) |
 |:-----:|:------:|:----:|
-|  130  |   89   |  19  |
+|  131  |   89   |  19  |
 
 
 ## Total SQL Questions : 4
