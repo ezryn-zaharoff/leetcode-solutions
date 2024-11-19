@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 91
+## Total : 92
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
@@ -34,6 +34,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 54. | Spiral Matrix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0054.md) | ✓ | - |
 | 55. | Jump Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0055.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 56. | Merge Intervals | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0056.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 57. | Insert Interval | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0057.md) | ✓ | - |
 | 59. | Spiral Matrix II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0059.md) | ✓ | - |
 | 61. | Rotate List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0061.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 75. | Sort Colors | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0075.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
