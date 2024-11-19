@@ -42,7 +42,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 82. | Remove Duplicates from Sorted List II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0082.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 90. | Subsets II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0090.md) | ✓ | - |
 | 122. | Best Time to Buy and Sell Stock II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0122.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 128. | Longest Consecutive Sequence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0128.md) | ✓ | ✓ |
+| 128. | Longest Consecutive Sequence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0128.md) | ✓ | ✓ | ✓ |
 | 137. | Single Number II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0137.md) | ✓ | - |
 | 147. | Insertion Sort List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0147.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 148. | Sort List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0148.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
