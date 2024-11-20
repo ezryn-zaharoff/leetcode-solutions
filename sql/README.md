@@ -6,9 +6,9 @@ This section is a compilation of solutions for SQL Leetcode questions.
 ## Total : 5
 
 
-| No. | Question | Difficulty | Solution | PostgreSQL | MySQL |
-|:---:|----------|:----------:|:--------:|:----------:|:-----:|
-| 178. | Rank Scores | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0178.md) | ✓ | ✓ |
+| No. | Question | Difficulty | Solution | PostgreSQL | MySQL | Oracle |
+|:---:|----------|:----------:|:--------:|:----------:|:-----:|:------:|
+| 178. | Rank Scores | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0178.md) | ✓ | ✓ | ✓ |
 | 584. | Find Customer Referee | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0584.md) | ✓ |
 | 620. | Swap Salary | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0620.md) | ✓ |
 | 627. | Not Boring Movies | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0627.md) | ✓ |
