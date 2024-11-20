@@ -16,8 +16,8 @@ Thank you.
 |  131  |   92   |  19  |
 
 
-## Total SQL Questions : 4
+## Total SQL Questions : 5
 
 | Easy | Medium | Hard |
 |:----:|:------:|:----:|
-|   4  |    0   |   0  |
+|   4  |    1   |   0  |
