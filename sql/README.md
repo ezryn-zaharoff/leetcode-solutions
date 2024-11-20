@@ -3,12 +3,13 @@
 This section is a compilation of solutions for SQL Leetcode questions.
 
 
-## Total : 11
+## Total : 12
 
 
 | No. | Question | Difficulty | Solution | PostgreSQL | MySQL | Oracle |
 |:---:|----------|:----------:|:--------:|:----------:|:-----:|:------:|
 | 178. | Rank Scores | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0178.md) | ✓ | ✓ | ✓ |
+| 182. | Duplicate Emails | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0182.md) | ✓ | ✓ | ✓ |
 | 185. | Department Top Three Salaries | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0185.md) | ✓ | ✓ | ✓ |
 | 262. | Trips and Users | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0262.md) | ✓ | ✓ | ✓ |
 | 511. | Find Customer Referee | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0511.md) | ✓ | ✓ | ✓ |
