@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 26
+## Total : 27
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -28,6 +28,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1407. | Top Travellers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1407.md) | ✓ | ✓ | ✓ |
 | 1527. | Patients With a Condition | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1527.md) | ✓ | ✓ | ✓ |
 | 1581. | Customer Who Visited but Did Not Make Any Transactions | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1581.md) | ✓ | ✓ | ✓ |
+| 1587. | Bank Account Summary II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1587.md) | ✓ | ✓ | ✓ |
 | 1667. | Fix Names in a Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1667.md) | ✓ | ✓ | ✓ |
 | 1683. | Invalid Tweets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1683.md) | ✓ | ✓ | ✓ |
 | 1693. | Invalid Tweets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1693.md) | ✓ | ✓ | ✓ |
