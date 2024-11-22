@@ -3,7 +3,7 @@
 This section is a compilation of solutions for SQL Leetcode questions.
 
 
-## Total : 17
+## Total : 18
 
 
 | No. | Question | Difficulty | Solution | PostgreSQL | MySQL | Oracle |
@@ -21,6 +21,7 @@ This section is a compilation of solutions for SQL Leetcode questions.
 | 1084. | Sales Analysis III | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1084.md) | ✓ | ✓ | ✓ |
 | 1148. | Article Views I | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1148.md) | ✓ | ✓ | ✓ |
 | 1378. | Replace Employee ID With The Unique Identifier | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1378.md) | ✓ | ✓ | ✓ |
+| 1581. | Customer Who Visited but Did Not Make Any Transactions | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1581.md) | ✓ | ✓ | ✓ |
 | 1667. | Fix Names in a Table | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1667.md) | ✓ | ✓ | ✓ |
 | 1683. | Invalid Tweets | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1683.md) | ✓ |  |  |
 | 1757. | Recyclable and Low Fat Products | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1757.md) | ✓ | ✓ | ✓ |
