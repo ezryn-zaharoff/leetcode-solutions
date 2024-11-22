@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 28
+## Total : 29
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -20,6 +20,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 595. | Big Countries | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0595.md) | ✓ | ✓ | ✓ |
 | 620. | Not Boring Movies | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0620.md) | ✓ | ✓ | ✓ |
 | 627. | Swap Salary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0627.md) | ✓ | ✓ | ✓ |
+| 1050. | Actors and Directors Who Cooperated At Least Three Times | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1050.md) | ✓ | ✓ | ✓ |
 | 1068. | Product Sales Analysis I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1068.md) | ✓ | ✓ | ✓ |
 | 1084. | Sales Analysis III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1084.md) | ✓ | ✓ | ✓ |
 | 1148. | Article Views I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1148.md) | ✓ | ✓ | ✓ |
