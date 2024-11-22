@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 18
+## Total : 19
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -20,6 +20,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1148. | Article Views I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1148.md) | ✓ | ✓ | ✓ |
 | 1280. | Students and Examinations | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1280.md) | ✓ | ✓ | ✓ |
 | 1378. | Replace Employee ID With The Unique Identifier | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1378.md) | ✓ | ✓ | ✓ |
+| 1407. | Top Travellers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1407.md) | ✓ | ✓ | ✓ |
 | 1527. | Patients With a Condition | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1527.md) | ✓ | ✓ | ✓ |
 | 1581. | Customer Who Visited but Did Not Make Any Transactions | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1581.md) | ✓ | ✓ | ✓ |
 | 1667. | Fix Names in a Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1667.md) | ✓ | ✓ | ✓ |
