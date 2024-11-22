@@ -3,7 +3,7 @@
 This section is a compilation of solutions for SQL Leetcode questions.
 
 
-## Total : 13
+## Total : 15
 
 
 | No. | Question | Difficulty | Solution | PostgreSQL | MySQL | Oracle |
@@ -22,3 +22,4 @@ This section is a compilation of solutions for SQL Leetcode questions.
 | 1148. | Article Views I | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1148.md) | ✓ | ✓ | ✓ |
 | 1667. | Fix Names in a Table | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1667.md) | ✓ | ✓ | ✓ |
 | 1757. | Recyclable and Low Fat Products | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1757.md) | ✓ | ✓ | ✓ |
+| 1934. | Confirmation Rate | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1934.md) | ✓ |  |  |
