@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 23
+## Total : 24
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -28,6 +28,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1581. | Customer Who Visited but Did Not Make Any Transactions | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1581.md) | ✓ | ✓ | ✓ |
 | 1667. | Fix Names in a Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1667.md) | ✓ | ✓ | ✓ |
 | 1683. | Invalid Tweets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1683.md) | ✓ | ✓ | ✓ |
-| 1757. | Recyclable and Low Fat Products | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1757.md) | ✓ | ✓ | ✓ |
+| 1693. | Invalid Tweets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1693.md) | ✓ | ✓ | ✓ |
+| 1757. | Daily Leads and Partners | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1757.md) | ✓ | ✓ | ✓ |
 | 1795. | Rearrange Products Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1795.md) | ✓ | ✓ | ✓ |
 | 1965. | Employees With Missing Information | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1965.md) | ✓ |  |  |
