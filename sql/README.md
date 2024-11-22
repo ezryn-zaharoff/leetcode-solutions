@@ -8,7 +8,6 @@ This section is a compilation of solutions for SQL Leetcode questions.
 
 | No. | Question | Difficulty | Solution | PostgreSQL | MySQL | Oracle |
 |:---:|----------|:----------:|:--------:|:----------:|:-----:|:------:|
-| 178. | Rank Scores | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0178.md) | ✓ | ✓ | ✓ |
 | 182. | Duplicate Emails | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0182.md) | ✓ | ✓ | ✓ |
 | 511. | Find Customer Referee | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0511.md) | ✓ | ✓ | ✓ |
 | 577. | Employee Bonus | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0577.md) | ✓ | ✓ | ✓ |
@@ -25,4 +24,3 @@ This section is a compilation of solutions for SQL Leetcode questions.
 | 1667. | Fix Names in a Table | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1667.md) | ✓ | ✓ | ✓ |
 | 1683. | Invalid Tweets | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1683.md) | ✓ | ✓ | ✓ |
 | 1757. | Recyclable and Low Fat Products | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1757.md) | ✓ | ✓ | ✓ |
-| 1934. | Confirmation Rate | Medium | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1934.md) | ✓ |  |  |
