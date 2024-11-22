@@ -3,7 +3,7 @@
 This section is a compilation of solutions for SQL Leetcode questions.
 
 
-## Total : 19
+## Total : 20
 
 
 | No. | Question | Difficulty | Solution | PostgreSQL | MySQL | Oracle |
@@ -13,6 +13,7 @@ This section is a compilation of solutions for SQL Leetcode questions.
 | 185. | Department Top Three Salaries | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0185.md) | ✓ | ✓ | ✓ |
 | 262. | Trips and Users | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0262.md) | ✓ | ✓ | ✓ |
 | 511. | Find Customer Referee | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0511.md) | ✓ | ✓ | ✓ |
+| 577. | Employee Bonus | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0577.md) | ✓ | ✓ | ✓ |
 | 584. | Find Customer Referee | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0584.md) | ✓ | ✓ | ✓ |
 | 595. | Big Countries | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0595.md) | ✓ | ✓ | ✓ |
 | 601. | Human Traffic of Stadium | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0601.md) | ✓ | ✓ | ✓ |
