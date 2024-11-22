@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 24
+## Total : 25
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -11,6 +11,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 175. | Combine Two Tables | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0175.md) | ✓ | ✓ | ✓ |
 | 181. | Employees Earning More Than Their Managers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0181.md) | ✓ | ✓ | ✓ |
 | 182. | Duplicate Emails | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0182.md) | ✓ | ✓ | ✓ |
+| 183. | Customers Who Never Order | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0183.md) | ✓ | ✓ | ✓ |
 | 511. | Find Customer Referee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0511.md) | ✓ | ✓ | ✓ |
 | 577. | Employee Bonus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0577.md) | ✓ | ✓ | ✓ |
 | 584. | Find Customer Referee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0584.md) | ✓ | ✓ | ✓ |
