@@ -3,7 +3,7 @@
 This section is a compilation of solutions for SQL Leetcode questions.
 
 
-## Total : 20
+## Total : 21
 
 
 | No. | Question | Difficulty | Solution | PostgreSQL | MySQL | Oracle |
@@ -19,6 +19,7 @@ This section is a compilation of solutions for SQL Leetcode questions.
 | 601. | Human Traffic of Stadium | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0601.md) | ✓ | ✓ | ✓ |
 | 620. | Not Boring Movies | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0620.md) | ✓ | ✓ | ✓ |
 | 627. | Swap Salary | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0627.md) | ✓ | ✓ | ✓ |
+| 1068. | Product Sales Analysis I | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1068.md) | ✓ | ✓ | ✓ |
 | 1084. | Sales Analysis III | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1084.md) | ✓ | ✓ | ✓ |
 | 1148. | Article Views I | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1148.md) | ✓ | ✓ | ✓ |
 | 1280. | Students and Examinations | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1280.md) | ✓ | ✓ | ✓ |
