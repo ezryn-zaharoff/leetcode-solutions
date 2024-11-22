@@ -18,6 +18,6 @@ This section is a compilation of solutions for SQL Leetcode questions.
 | 601. | Human Traffic of Stadium | Hard | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0601.md) | ✓ | ✓ | ✓ |
 | 620. | Not Boring Movies | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0620.md) | ✓ | ✓ | ✓ |
 | 627. | Swap Salary | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q0627.md) | ✓ | ✓ | ✓ |
-|1084. | Sales Analysis III | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1084.md) | ✓ | ✓ | ✓ |
+| 1084. | Sales Analysis III | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1084.md) | ✓ | ✓ | ✓ |
 | 1667. | Fix Names in a Table | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1667.md) | ✓ | ✓ | ✓ |
 | 1757. | Recyclable and Low Fat Products | Easy | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/Q1757.md) | ✓ | ✓ | ✓ |
