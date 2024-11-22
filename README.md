@@ -16,8 +16,8 @@ Thank you.
 |  133  |   92   |  19  |
 
 
-## Total SQL Questions : 27
+## Total SQL Questions : 28
 
 | [Easy](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/sql/01-sql-easy) | [Medium](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/sql/02-sql-medium) | [Hard](https://github.com/ezryn-zaharoff/leetcode-solutions/tree/master/sql/03-sql-hard) |
 |:----:|:------:|:----:|
-|  21  |    3   |   3  |
+|  22  |    3   |   3  |

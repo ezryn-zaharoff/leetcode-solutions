@@ -3,11 +3,12 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 21
+## Total : 22
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
 |:---:|----------|:--------:|:----------:|:-----:|:------:|
+| 181. | Employees Earning More Than Their Managers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0181.md) | ✓ | ✓ | ✓ |
 | 182. | Duplicate Emails | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0182.md) | ✓ | ✓ | ✓ |
 | 511. | Find Customer Referee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0511.md) | ✓ | ✓ | ✓ |
 | 577. | Employee Bonus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0577.md) | ✓ | ✓ | ✓ |
