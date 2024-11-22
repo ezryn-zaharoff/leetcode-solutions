@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 31
+## Total : 32
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -34,6 +34,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1667. | Fix Names in a Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1667.md) | ✓ | ✓ | ✓ |
 | 1683. | Invalid Tweets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1683.md) | ✓ | ✓ | ✓ |
 | 1693. | Invalid Tweets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1693.md) | ✓ | ✓ | ✓ |
+| 1729. | Find Followers Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1729.md) | ✓ | ✓ | ✓ |
 | 1757. | Daily Leads and Partners | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1757.md) | ✓ | ✓ | ✓ |
 | 1795. | Rearrange Products Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1795.md) | ✓ | ✓ | ✓ |
 | 1890. | The Latest Login in 2020 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1890.md) | ✓ | ✓ | ✓ |
