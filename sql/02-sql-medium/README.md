@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium SQL Leetcode questions.
 
 
-## Total : 6
+## Total : 7
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -13,4 +13,5 @@ This section is a compilation of solutions for medium SQL Leetcode questions.
 | 180. | Consecutive Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0180.md) | ✓ | ✓ | ✓ |
 | 184. | Department Highest Salary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0184.md) | ✓ | ✓ |  |
 | 1158. | Market Analysis I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01158.md) | ✓ | ✓ | ✓ |
+| 1393. | Capital Gain/Loss | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01393.md) | ✓ | ✓ | ✓ |
 | 1934. | Confirmation Rate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1934.md) | ✓ |  |  |
