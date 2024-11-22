@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 29
+## Total : 30
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -37,3 +37,4 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1757. | Daily Leads and Partners | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1757.md) | ✓ | ✓ | ✓ |
 | 1795. | Rearrange Products Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1795.md) | ✓ | ✓ | ✓ |
 | 1965. | Employees With Missing Information | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1965.md) | ✓ |  |  |
+| 1978. | Employees Whose Manager Left the Company | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1978.md) | ✓ | ✓ | ✓ |
