@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 39
+## Total : 40
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -21,6 +21,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 595. | Big Countries | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0595.md) | ✓ | ✓ | ✓ |
 | 596. | Classes More Than 5 Students | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0596.md) | ✓ | ✓ | ✓ |
 | 607. | Sales Person | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0607.md) | ✓ | ✓ | ✓ |
+| 610. | Triangle Judgement | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0610.md) | ✓ | ✓ | ✓ |
 | 620. | Not Boring Movies | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0620.md) | ✓ | ✓ | ✓ |
 | 627. | Swap Salary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0627.md) | ✓ | ✓ | ✓ |
 | 1050. | Actors and Directors Who Cooperated At Least Three Times | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1050.md) | ✓ | ✓ | ✓ |
