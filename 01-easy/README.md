@@ -103,7 +103,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 1598. | Crawler Log Folder | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1598.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1684. | Count the Number of Consistent Strings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1684.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1678. | Goal Parser Interpretation | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1678.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 1732. | Find the Highest Altitude | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1732.md) | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ | ✓ |
+| 1732. | Find the Highest Altitude | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1732.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1768. | Merge Strings Alternately | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1768.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1961. | Check If String Is a Prefix of Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1961.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2042. | Check if Numbers Are Ascending in a Sentence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2042.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
