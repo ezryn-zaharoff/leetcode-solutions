@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium SQL Leetcode questions.
 
 
-## Total : 19
+## Total : 20
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -19,6 +19,7 @@ This section is a compilation of solutions for medium SQL Leetcode questions.
 | 608. | Tree Node | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0608.md) | ✓ | ✓ | ✓ |
 | 626. | Exchange Seats | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0626.md) | ✓ | ✓ | ✓ |
 | 1045. | Customers Who Bought All Products | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01045.md) | ✓ | ✓ | ✓ |
+| 1070. | Product Sales Analysis III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01070.md) | ✓ | ✓ | ✓ |
 | 1158. | Market Analysis I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01158.md) | ✓ | ✓ | ✓ |
 | 1164. | Product Price at a Given Date | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01164.md) | ✓ | ✓ | ✓ |
 | 1204. | Last Person to Fit in the Bus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01204.md) | ✓ | ✓ | ✓ |
