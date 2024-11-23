@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 50
+## Total : 51
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -52,6 +52,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1731. | The Number of Employees Which Report to Each Employee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1731.md) | ✓ | ✓ | ✓ |
 | 1741. | Find Total Time Spent by Each Employee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1741.md) | ✓ | ✓ | ✓ |
 | 1757. | Daily Leads and Partners | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1757.md) | ✓ | ✓ | ✓ |
+| 1789. | Primary Department for Each Employee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1789.md) | ✓ | ✓ | ✓ |
 | 1795. | Rearrange Products Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1795.md) | ✓ | ✓ | ✓ |
 | 1873. | Calculate Special Bonus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1873.md) | ✓ | ✓ | ✓ |
 | 1890. | The Latest Login in 2020 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1890.md) | ✓ | ✓ | ✓ |
