@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium SQL Leetcode questions.
 
 
-## Total : 22
+## Total : 23
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -24,6 +24,7 @@ This section is a compilation of solutions for medium SQL Leetcode questions.
 | 1158. | Market Analysis I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01158.md) | ✓ | ✓ | ✓ |
 | 1164. | Product Price at a Given Date | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01164.md) | ✓ | ✓ | ✓ |
 | 1174. | Immediate Food Delivery II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01174.md) | ✓ | ✓ | ✓ |
+| 1193. | Monthly Transactions I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01193.md) | ✓ | ✓ | ✓ |
 | 1204. | Last Person to Fit in the Bus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01204.md) | ✓ | ✓ | ✓ |
 | 1321. | Restaurant Growth | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01321.md) | ✓ | ✓ | ✓ |
 | 1341. | Movie Rating | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01341.md) | ✓ | ✓ |  |
