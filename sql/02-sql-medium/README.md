@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium SQL Leetcode questions.
 
 
-## Total : 20
+## Total : 21
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -13,6 +13,7 @@ This section is a compilation of solutions for medium SQL Leetcode questions.
 | 178. | Rank Scores | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0178.md) | ✓ | ✓ | ✓ |
 | 180. | Consecutive Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0180.md) | ✓ | ✓ | ✓ |
 | 184. | Department Highest Salary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0184.md) | ✓ | ✓ |  |
+| 550. | Game Play Analysis IV | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0550.md) | ✓ | ✓ |  |
 | 570. | Managers with at Least 5 Direct Reports | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0570.md) | ✓ | ✓ | ✓ |
 | 585. | Investments in 2016 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0585.md) | ✓ | ✓ | ✓ |
 | 602. | Friend Requests II: Who Has the Most Friends | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0602.md) | ✓ | ✓ | ✓ |
