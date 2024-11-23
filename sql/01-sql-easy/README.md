@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 45
+## Total : 46
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -31,6 +31,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1141. | User Activity for the Past 30 Days I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1141.md) | ✓ | ✓ | ✓ |
 | 1148. | Article Views I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1148.md) | ✓ | ✓ | ✓ |
 | 1179. | Reformat Department Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1179.md) | ✓ | ✓ | ✓ |
+| 1251. | Average Selling Price | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1251.md) | ✓ | ✓ | ✓ |
 | 1280. | Students and Examinations | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1280.md) | ✓ | ✓ | ✓ |
 | 1327. | List the Products Ordered in a Period | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1327.md) | ✓ | ✓ | ✓ |
 | 1378. | Replace Employee ID With The Unique Identifier | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1378.md) | ✓ | ✓ | ✓ |
