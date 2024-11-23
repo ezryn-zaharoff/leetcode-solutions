@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 46
+## Total : 47
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -27,6 +27,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 627. | Swap Salary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0627.md) | ✓ | ✓ | ✓ |
 | 1050. | Actors and Directors Who Cooperated At Least Three Times | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1050.md) | ✓ | ✓ | ✓ |
 | 1068. | Product Sales Analysis I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1068.md) | ✓ | ✓ | ✓ |
+| 1075. | Project Employees I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1075.md) | ✓ | ✓ | ✓ |
 | 1084. | Sales Analysis III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1084.md) | ✓ | ✓ | ✓ |
 | 1141. | User Activity for the Past 30 Days I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1141.md) | ✓ | ✓ | ✓ |
 | 1148. | Article Views I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1148.md) | ✓ | ✓ | ✓ |
