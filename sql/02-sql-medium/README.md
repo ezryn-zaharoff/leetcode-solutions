@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium SQL Leetcode questions.
 
 
-## Total : 12
+## Total : 13
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -19,4 +19,5 @@ This section is a compilation of solutions for medium SQL Leetcode questions.
 | 1158. | Market Analysis I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01158.md) | ✓ | ✓ | ✓ |
 | 1341. | Movie Rating | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01341.md) | ✓ | ✓ |  |
 | 1393. | Capital Gain/Loss | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q01393.md) | ✓ | ✓ | ✓ |
+| 1907. | Count Salary Categories | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1907.md) | ✓ | ✓ | ✓ |
 | 1934. | Confirmation Rate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1934.md) | ✓ |  |  |
