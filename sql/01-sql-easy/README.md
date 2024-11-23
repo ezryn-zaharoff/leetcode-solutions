@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy SQL Leetcode questions.
 
 
-## Total : 49
+## Total : 50
 
 
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle |
@@ -49,6 +49,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1683. | Invalid Tweets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1683.md) | ✓ | ✓ | ✓ |
 | 1693. | Invalid Tweets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1693.md) | ✓ | ✓ | ✓ |
 | 1729. | Find Followers Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1729.md) | ✓ | ✓ | ✓ |
+| 1731. | The Number of Employees Which Report to Each Employee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1731.md) | ✓ | ✓ | ✓ |
 | 1741. | Find Total Time Spent by Each Employee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1741.md) | ✓ | ✓ | ✓ |
 | 1757. | Daily Leads and Partners | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1757.md) | ✓ | ✓ | ✓ |
 | 1795. | Rearrange Products Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1795.md) | ✓ | ✓ | ✓ |
