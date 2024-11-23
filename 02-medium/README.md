@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 93
+## Total : 94
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
@@ -54,6 +54,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 198. | House Robber | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0198.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 280. | Wiggle Sort 🔒 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0280.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 324. | Wiggle Sort II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0324.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 394. | Decode String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0394.md) | ✓ |
 | 451. | Sort Characters By Frequency | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0451.md) | ✓ | - |
 | 539. | Minimum Time Difference | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0539.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 560. | Subarray Sum Equals K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0560.md) | ✓ | ✓ |
