@@ -17,7 +17,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 511. | Find Customer Referee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0511.md) | ✓ | ✓ | ✓ |
 | 577. | Employee Bonus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0577.md) | ✓ | ✓ | ✓ |
 | 584. | Find Customer Referee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0584.md) | ✓ | ✓ | ✓ |
-| 586. | Customer Placing the Largest Number of Orders | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0586.md) | ✓ | ✓ |  |
+| 586. | Customer Placing the Largest Number of Orders | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0586.md) | ✓ | ✓ | ✓ |
 | 595. | Big Countries | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0595.md) | ✓ | ✓ | ✓ |
 | 596. | Classes More Than 5 Students | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0596.md) | ✓ | ✓ | ✓ |
 | 607. | Sales Person | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0607.md) | ✓ | ✓ | ✓ |
