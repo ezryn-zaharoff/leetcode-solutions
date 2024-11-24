@@ -27,7 +27,7 @@ This section is a compilation of solutions for medium SQL Leetcode questions.
 | 1193. | Monthly Transactions I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1193.md) | ✓ | ✓ | ✓ |
 | 1204. | Last Person to Fit in the Bus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1204.md) | ✓ | ✓ | ✓ |
 | 1321. | Restaurant Growth | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1321.md) | ✓ | ✓ | ✓ |
-| 1341. | Movie Rating | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1341.md) | ✓ | ✓ |  |
+| 1341. | Movie Rating | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1341.md) | ✓ | ✓ | ✓ |
 | 1393. | Capital Gain/Loss | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1393.md) | ✓ | ✓ | ✓ |
 | 1907. | Count Salary Categories | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1907.md) | ✓ | ✓ | ✓ |
 | 1934. | Confirmation Rate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1934.md) | ✓ |  |  |
