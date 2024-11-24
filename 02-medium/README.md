@@ -17,7 +17,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 12. | Integer To Roman | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0012.md) | ✓ | ✓ |
 | 15. | 3Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0015.md) | ✓ | - |
 | 16. | 3Sum Closest | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0016.md) | ✓ | - |
-| 17. | Letter Combinations of a Phone Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0017.md) | ✓ | ✓ | ✓ | ✓ |
+| 17. | Letter Combinations of a Phone Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0017.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  |
 | 18. | 4Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0018.md) | ✓ | - |
 | 19. | Remove Nth Node From End of List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0019.md) | ✓ | - |
 | 22. | Generate Parentheses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0022.md) | ✓ | - |
