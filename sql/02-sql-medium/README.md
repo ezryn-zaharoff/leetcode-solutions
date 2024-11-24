@@ -12,7 +12,7 @@ This section is a compilation of solutions for medium SQL Leetcode questions.
 | 177. | Nth Highest Salary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0177.md) | ✓ | ✓ | ✓ |
 | 178. | Rank Scores | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0178.md) | ✓ | ✓ | ✓ |
 | 180. | Consecutive Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0180.md) | ✓ | ✓ | ✓ |
-| 184. | Department Highest Salary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0184.md) | ✓ | ✓ |  |
+| 184. | Department Highest Salary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0184.md) | ✓ | ✓ | ✓ |
 | 550. | Game Play Analysis IV | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0550.md) | ✓ | ✓ |  |
 | 570. | Managers with at Least 5 Direct Reports | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0570.md) | ✓ | ✓ | ✓ |
 | 585. | Investments in 2016 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q0585.md) | ✓ | ✓ | ✓ |
