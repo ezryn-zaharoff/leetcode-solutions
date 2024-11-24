@@ -47,7 +47,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1661. | Average Time of Process per Machine | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1661.md) | ✓ | ✓ | ✓ |
 | 1667. | Fix Names in a Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1667.md) | ✓ | ✓ | ✓ |
 | 1683. | Invalid Tweets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1683.md) | ✓ | ✓ | ✓ |
-| 1693. | Invalid Tweets | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1693.md) | ✓ | ✓ | ✓ |
+| 1693. | Daily Leads and Partner | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1693.md) | ✓ | ✓ | ✓ |
 | 1729. | Find Followers Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1729.md) | ✓ | ✓ | ✓ |
 | 1731. | The Number of Employees Which Report to Each Employee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1731.md) | ✓ | ✓ | ✓ |
 | 1741. | Find Total Time Spent by Each Employee | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1741.md) | ✓ | ✓ | ✓ |
