@@ -39,7 +39,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1378. | Replace Employee ID With The Unique Identifier | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1378.md) | ✓ | ✓ | ✓ |
 | 1407. | Top Travellers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1407.md) | ✓ | ✓ | ✓ |
 | 1484. | Group Sold Products By The Date | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1484.md) | ✓ | ✓ | ✓ |
-| 1517. | Find Users With Valid E-Mails | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1517.md) | ✓ | ✓ |  |
+| 1517. | Find Users With Valid E-Mails | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1517.md) | ✓ | ✓ | ✓ |
 | 1527. | Patients With a Condition | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1527.md) | ✓ | ✓ | ✓ |
 | 1581. | Customer Who Visited but Did Not Make Any Transactions | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1581.md) | ✓ | ✓ | ✓ |
 | 1587. | Bank Account Summary II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1587.md) | ✓ | ✓ | ✓ |
