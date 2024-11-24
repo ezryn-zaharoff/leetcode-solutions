@@ -56,6 +56,6 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | 1795. | Rearrange Products Table | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1795.md) | ✓ | ✓ | ✓ |
 | 1873. | Calculate Special Bonus | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1873.md) | ✓ | ✓ | ✓ |
 | 1890. | The Latest Login in 2020 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1890.md) | ✓ | ✓ | ✓ |
-| 1965. | Employees With Missing Information | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1965.md) | ✓ |  |  |
+| 1965. | Employees With Missing Information | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1965.md) | ✓ | ✓ |  |
 | 1978. | Employees Whose Manager Left the Company | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q1978.md) | ✓ | ✓ | ✓ |
 | 2356. | Number of Unique Subjects Taught by Each Teacher | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q2356.md) | ✓ | ✓ | ✓ |
