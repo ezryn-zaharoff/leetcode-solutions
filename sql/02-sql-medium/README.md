@@ -30,4 +30,4 @@ This section is a compilation of solutions for medium SQL Leetcode questions.
 | 1341. | Movie Rating | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1341.md) | ✓ | ✓ | ✓ |
 | 1393. | Capital Gain/Loss | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1393.md) | ✓ | ✓ | ✓ |
 | 1907. | Count Salary Categories | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1907.md) | ✓ | ✓ | ✓ |
-| 1934. | Confirmation Rate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1934.md) | ✓ |  |  |
+| 1934. | Confirmation Rate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/02-sql-medium/medium-solutions/Q1934.md) | ✓ | ✓ |  |
