@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 143
+## Total : 144
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
@@ -52,6 +52,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 448. | Find All Numbers Disappeared in an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0448.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 459. | Repeated Substring Pattern | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0459.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 476. | Number Complement | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0476.md) | ✓ |
+| 482. | License Key Formatting | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0482.md) | ✓ |
 | 485. | Max Consecutive Ones | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0485.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 500. | Keyboard Row | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0500.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 504. | Base 7 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0504.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
