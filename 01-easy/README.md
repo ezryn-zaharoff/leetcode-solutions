@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 145
+## Total : 146
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
@@ -49,6 +49,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 383. | Ransom Note | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0383.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 404. | Sum of Left Leaves | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0404.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 414. | Third Maximum Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0414.md) | ✓ |
+| 434. | Number of Segments in a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0434.md) | ✓ |
 | 448. | Find All Numbers Disappeared in an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0448.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 455. | Assign Cookies | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0455.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 459. | Repeated Substring Pattern | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0459.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
