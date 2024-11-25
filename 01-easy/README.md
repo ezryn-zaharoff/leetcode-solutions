@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 139
+## Total : 140
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
@@ -43,6 +43,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 344. | Reverse String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0344.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 345. | Reverse Vowels of a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0345.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 349. | Intersection of Two Arrays | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0349.md) | ✓ |
+| 350. | Intersection of Two Arrays II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0350.md) | ✓ |
 | 367. | Valid Perfect Square | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0367.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 374. | Guess Number Higher or Lower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0374.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 383. | Ransom Note | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0383.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
