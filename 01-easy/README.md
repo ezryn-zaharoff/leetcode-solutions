@@ -43,7 +43,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 344. | Reverse String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0344.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 345. | Reverse Vowels of a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0345.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 374. | Guess Number Higher or Lower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0374.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 383. | Ransom Note | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0383.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ |
+| 383. | Ransom Note | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0383.md) | ✓ | ✓ | ✓ | ✓ |  | ✓ | ✓ | ✓ |
 | 448. | Find All Numbers Disappeared in an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0448.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 459. | Repeated Substring Pattern | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0459.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 485. | Max Consecutive Ones | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0485.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
