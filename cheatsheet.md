@@ -11,7 +11,7 @@ This is a cheatsheet comparing the different languages.
 |  4. | Count | += | += or ++ | same as Java | same as Java |
 |  5. | For loop (i) | for i in range(n) | for (int i = 0; i < n; i++) | for (let i = 0; i < n; i++) | same as Java |
 |  6. | For loop (list) | for num in nums | for (int num : nums) | for (let num of nums) | same as Java |
-|  7. | For loop (string) | for ch in s | for (char ch : s.toCharArray()) | for (const ch of s) | for (char& ch : s) | for (ch <- s) | for _, ch := range s | foreach (char ch in s) |  |
+|  7. | For loop (string) | for ch in s | for (char ch : s.toCharArray()) | for (const ch of s) | for (char& ch : s) | for (ch <- s) | for _, ch := range s | foreach (char ch in s) | same as Py3 |
 |  8. | Maximum | max() | Math.max() | Math.max() | max() | Math.max() | max() | Math.Max() | max() |
 |  9. | Sort | .sort() | Arrays.sort() | .sort(function(a, b){return a-b}) | sort(nums.begin(), nums.end()) | .sorted | sort.Ints() or sort.Strings() | Array.Sort() | .sorted() |
 |  10. | New array | ans = [] | int[] ans = new int[2] | let ans = [] | vector<int> ans | var ans = new Array[Int](2) | ans := []int{} or make([]int, 2) | int[] ans = new int[n] | var ans = Array(repeating: 0, count: n) |
