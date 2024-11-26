@@ -77,7 +77,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0930.md) | ✓ | ✓ |
 | 978. | Longest Turbulent Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0978.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1780. | Check if Number is a Sum of Powers of Three | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1780.md) | ✓ | - |
-| 2139. | Minimum Moves to Reach Target Score | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2139.md) | ✓ | ✓ |
+| 2139. | Minimum Moves to Reach Target Score | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2139.md) | ✓ | ✓ | ✓ |
 | 2177. | Find Three Consecutive Integers That Sum to a Given Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2177.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2221. | Find Triangular Sum of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2221.md) | ✓ | ✓ |
 | 2225. | Find Players With Zero or One Losses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2225.md) | ✓ |
