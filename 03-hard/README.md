@@ -21,7 +21,7 @@ This section is a compilation of solutions for hard Leetcode questions.
 | 827. | Making A Large Island | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0827.md) | ✓ | - |
 | 828. | Count Unique Characters of All Substrings of a Given String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0828.md) | ✓ | - |
 | 829. | Consecutive Numbers Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0829.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 2167. | Minimum Time to Remove All Cars Containing Illegal Goods | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2167.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  |
+| 2167. | Minimum Time to Remove All Cars Containing Illegal Goods | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2167.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ |
 | 2267. | Check if There Is a Valid Parentheses String Path | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2267.md) | ✓ | - |
 | 2272. | Substring With Largest Variance | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2272.md) | ✓ | - |
 | 2281. | Sum of Total Strength of Wizards | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q2281.md) | ✓ | - |
