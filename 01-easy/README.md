@@ -130,7 +130,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2138. | Divide a String Into Groups of Size k | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2138.md) | ✓ | ✓ |
 | 2144. | Minimum Cost of Buying Candies With Discount | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2144.md) | ✓ |
 | 2154. | Keep Multiplying Found Values by Two | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2154.md) | ✓ |
-| 2169. | Count Operations to Obtain Zero | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2169.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  |
+| 2169. | Count Operations to Obtain Zero | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2169.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ |
 | 2185. | Counting Words With a Given Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2185.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2194. | Cells in a Range on an Excel Sheet | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2194.md) | ✓ |
 | 2224. | Minimum Number of Operations to Convert Time | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2224.md) | ✓ |
