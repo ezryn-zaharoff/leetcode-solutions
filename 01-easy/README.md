@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 155
+## Total : 156
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
@@ -129,6 +129,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2129. | Capitalize the Title | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2129.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2138. | Divide a String Into Groups of Size k | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2138.md) | ✓ | ✓ |
 | 2144. | Minimum Cost of Buying Candies With Discount | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2144.md) | ✓ |
+| 2154. | Keep Multiplying Found Values by Two | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2154.md) | ✓ |
 | 2185. | Counting Words With a Given Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2185.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2243. | Calculate Digit Sum of a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2243.md) | ✓ | ✓ |
 | 2248. | Intersection of Multiple Arrays | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2248.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
