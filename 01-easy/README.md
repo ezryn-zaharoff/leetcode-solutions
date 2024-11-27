@@ -133,7 +133,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2154. | Keep Multiplying Found Values by Two | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2154.md) | ✓ |
 | 2160. | Minimum Sum of Four Digit Number After Splitting Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2160.md) | ✓ |
 | 2169. | Count Operations to Obtain Zero | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2169.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 2180. | Count Integers With Even Digit Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2180.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ |
+| 2180. | Count Integers With Even Digit Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2180.md) | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ | ✓ |
 | 2185. | Counting Words With a Given Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2185.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2194. | Cells in a Range on an Excel Sheet | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2194.md) | ✓ |
 | 2224. | Minimum Number of Operations to Convert Time | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2224.md) | ✓ |
