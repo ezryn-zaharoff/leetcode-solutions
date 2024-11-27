@@ -80,7 +80,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 1780. | Check if Number is a Sum of Powers of Three | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1780.md) | ✓ | - |
 | 2139. | Minimum Moves to Reach Target Score | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2139.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2177. | Find Three Consecutive Integers That Sum to a Given Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2177.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 2181. | Merge Nodes in Between Zeros | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2181.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
+| 2181. | Merge Nodes in Between Zeros | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2181.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2221. | Find Triangular Sum of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2221.md) | ✓ | ✓ |
 | 2225. | Find Players With Zero or One Losses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2225.md) | ✓ |
 | 2266. | Count Number of Texts | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2266.md) | ✓ | - |
