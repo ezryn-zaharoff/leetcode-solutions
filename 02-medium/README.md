@@ -67,7 +67,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 811. | Subdomain Visit Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0811.md) | ✓ | - |
 | 813. | Largest Sum of Averages | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0813.md) | ✓ | - |
 | 816. | Ambiguous Coordinates | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0816.md) | ✓ | - |
-| 817. | Linked List Components | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0817.md) | ✓ |
+| 817. | Linked List Components | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0817.md) | ✓ | ✓ |
 | 820. | Short Encoding of Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0820.md) | ✓ | - |
 | 822. | Card Flipping Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0822.md) | ✓ | - |
 | 825. | Friends Of Appropriate Ages | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0825.md) | ✓ | - |
