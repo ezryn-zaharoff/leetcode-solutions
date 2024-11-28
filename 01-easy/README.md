@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 166
+## Total : 167
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
@@ -110,6 +110,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 844. | Backspace String Compare | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0844.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 859. | Buddy Strings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0859.md) | ✓ | - |
 | 860. | Lemonade Change | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0860.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 876. | Middle of the Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0876.md) | ✓ |
 | 896. | Monotonic Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0896.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 905. | Sort Array By Parity | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0905.md) | ✓ | ✓ |
 | 917. | Reverse Only Letters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0917.md) | ✓ | - |
