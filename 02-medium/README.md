@@ -80,7 +80,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 825. | Friends Of Appropriate Ages | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0825.md) | ✓ | - |
 | 826. | Most Profit Assigning Work | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0826.md) | ✓ | - |
 | 880. | Decoded String at Index | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0880.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 881. | Boats to Save People | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0881.md) | ✓ | ✓ | ✓ |
+| 881. | Boats to Save People | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0881.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  |
 | 885. | Spiral Matrix III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0885.md) | ✓ | ✓ |
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0930.md) | ✓ | ✓ |
 | 978. | Longest Turbulent Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0978.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
