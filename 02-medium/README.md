@@ -43,7 +43,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 80. | Remove Duplicates from Sorted Array II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0080.md) | - | ✓ |
 | 82. | Remove Duplicates from Sorted List II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0082.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 90. | Subsets II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0090.md) | ✓ | - |
-| 92. | Reverse Linked List II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0092.md) | ✓ | ✓ |
+| 92. | Reverse Linked List II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0092.md) | ✓ | ✓ | ✓ |
 | 122. | Best Time to Buy and Sell Stock II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0122.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 128. | Longest Consecutive Sequence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0128.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 129. | Sum Root to Leaf Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0129.md) | ✓ |
