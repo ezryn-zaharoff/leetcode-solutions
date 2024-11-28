@@ -111,4 +111,4 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 2545. | Sort the Students by Their Kth Score | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2545.md) | ✓ | ✓ |
 | 2611. | Mice and Cheese | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2611.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2645. | Minimum Additions to Make Valid String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2645.md) | ✓ |
-| 3217. | Delete Nodes From Linked List Present in Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q3217.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  |
+| 3217. | Delete Nodes From Linked List Present in Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q3217.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ |
