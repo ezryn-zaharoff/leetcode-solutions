@@ -3,7 +3,7 @@
 This section is a compilation of solutions for medium Leetcode questions.
 
 
-## Total : 110
+## Total : 111
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
@@ -48,6 +48,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 128. | Longest Consecutive Sequence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0128.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 129. | Sum Root to Leaf Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0129.md) | ✓ |
 | 137. | Single Number II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0137.md) | ✓ | - |
+| 142. | Linked List Cycle II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0142.md) | ✓ |
 | 143. | Reorder List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0143.md) | ✓ |
 | 147. | Insertion Sort List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0147.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 148. | Sort List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0148.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
