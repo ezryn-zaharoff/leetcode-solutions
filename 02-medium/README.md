@@ -103,7 +103,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 2279. | Maximum Bags With Full Capacity of Rocks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2279.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2280. | Minimum Lines to Represent a Line Chart | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2280.md) | ✓ | ✓ |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2284.md) | ✓ | ✓ |
-| 2285. | Maximum Total Importance of Roads | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2285.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  |
+| 2285. | Maximum Total Importance of Roads | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2285.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ |
 | 2288. | Apply Discount to Prices | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2288.md) | ✓ | - |
 | 2289. | Steps to Make Array Non-decreasing | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2289.md) | ✓ | - |
 | 2294. | Partition Array Such That Maximum Difference Is K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2294.md) | ✓ | ✓ |
