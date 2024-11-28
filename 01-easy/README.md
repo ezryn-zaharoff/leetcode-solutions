@@ -38,7 +38,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 217. | Contains Duplicate | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0217.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 219. | Contains Duplicate II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0219.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 231. | Power of Two | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0231.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 234. | Palindrome Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0234.md) | ✓ | ✓ | ✓ |
+| 234. | Palindrome Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0234.md) | ✓ | ✓ | ✓ | ✓ |
 | 258. | Add Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0258.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 278. | First Bad Version | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0278.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 283. | Move Zeroes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0283.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
