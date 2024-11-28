@@ -53,7 +53,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 186. | Reverse Words In A String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0186.md) | ✓ | ✓ |
 | 189. | Rotate Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0189.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 198. | House Robber | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0198.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 237. | Delete Node in a Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0237.md) | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ | ✓ |
+| 237. | Delete Node in a Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0237.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 280. | Wiggle Sort 🔒 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0280.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 324. | Wiggle Sort II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0324.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 394. | Decode String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0394.md) | ✓ |
