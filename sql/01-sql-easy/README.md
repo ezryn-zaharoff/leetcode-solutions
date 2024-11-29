@@ -9,7 +9,7 @@ This section is a compilation of solutions for easy SQL Leetcode questions.
 | No. | Question | Solution | PostgreSQL | MySQL | Oracle | MS SQL | Pandas |
 |:---:|----------|:--------:|:----------:|:-----:|:------:|:------:|:------:|
 | 175. | Combine Two Tables | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0175.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 181. | Employees Earning More Than Their Managers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0181.md) | ✓ | ✓ | ✓ |
+| 181. | Employees Earning More Than Their Managers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0181.md) | ✓ | ✓ | ✓ | ✓ |
 | 182. | Duplicate Emails | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0182.md) | ✓ | ✓ | ✓ | ✓ |
 | 183. | Customers Who Never Order | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0183.md) | ✓ | ✓ | ✓ |
 | 196. | Delete Duplicate Emails | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/sql/01-sql-easy/easy-solutions/Q0196.md) | ✓ | ✓ | ✓ |
