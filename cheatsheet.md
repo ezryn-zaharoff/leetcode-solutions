@@ -14,7 +14,7 @@ This is a cheatsheet comparing the different languages.
 |  7. | For loop (string) | for ch in s | for (char ch : s.toCharArray()) | for (const ch of s) | for (char& ch : s) | for (ch <- s) | for _, ch := range s | foreach (char ch in s) | same as Py3 |
 |  8. | Maximum | max() | Math.max() | Math.max() | max() | Math.max() | max() | Math.Max() | max() |
 |  9. | Sort | .sort() | Arrays.sort() | .sort(function(a, b){return a-b}) | sort(nums.begin(), nums.end()) | .sorted | sort.Ints() or sort.Strings() | Array.Sort() | .sort() or .sorted() |
-|  10. | New array | ans = [] | int[] ans = new int[2] | let ans = [] | `vector<int> ans` | `var ans = new Array[Int](2) or var ans = Array.fill(n)(0L)` | ans := []int{} or make([]int, 2) | int[] ans = new int[n] | var ans = [Int]() or var ans = Array(repeating: 0, count: n) |
+|  10. | New array | ans = [] | int[] ans = new int[2] | let ans = [] | `vector<int> ans` | `var ans = new Array[Int](2) or var ans = Array.fill(n)(0L)` | ans := []int{} or make([]int, 2) | int[] ans = new int[n] | `var ans = [Int]() or var ans = Array(repeating: 0, count: n)` |
 |  11. | Starts with (string) | .startswith(sub) | .startsWith(sub) | same as Java | .starts_with(sub) | same as Java | strings.HasPrefix(words[i], sub) | .StartsWith(sub) | .hasPrefix(sub) |
 |  12. | Substring | s[i:i+k] | s.substring(i,i+k) | same as Java | s.substr(i,k) | same as Java | same as Py3 | .Substring(i,k) |  |
 |  13. | Contains (substring) | sub in s | s.contains(sub) | s.includes(sub) | same as Java | same as Java | strings.Contains(s,sub) | s.Contains(sub) | same as Java |
