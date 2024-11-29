@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 170
+## Total : 171
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
@@ -25,6 +25,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 70. | Climbing Stairs | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0070.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 83. | Remove Duplicates from Sorted List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0083.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 88. | Merge Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0088.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 112. | Path Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0112.md) | ✓ |
 | 118. | Pascal's Triangle | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0118.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 119. | Pascal's Triangle II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0119.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 121. | Best Time to Buy and Sell Stock | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0121.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
