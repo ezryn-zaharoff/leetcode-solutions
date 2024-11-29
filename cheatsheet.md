@@ -5,7 +5,7 @@ This is a cheatsheet comparing the different languages.
 
 | No. |   Type   | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
 |:---:|----------|:-------:|:----:|:-----:|:---:|:-----:|:--:|:--:|:-----:|
-|  1. | Set integers | - | int | let | int |
+|  1. | Set integers | - | int | let | int | var | := | int | var |
 |  2. | List length | len() | .length | same as Java | .size() | same as Java | same as Py3 | .Count or .Length | .count |
 |  3. | String length | len() | .length() | .length | .length() or .size() |
 |  4. | Count | += | += or ++ | same as Java | same as Java |
