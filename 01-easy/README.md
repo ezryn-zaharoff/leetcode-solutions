@@ -60,7 +60,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 412. | Fizz Buzz | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0412.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 414. | Third Maximum Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0414.md) | ✓ |
 | 434. | Number of Segments in a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0434.md) | ✓ | ✓ |
-| 441. | Arranging Coins | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0441.md) | ✓ | ✓ | ✓ |
+| 441. | Arranging Coins | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0441.md) | ✓ | ✓ | ✓ | ✓ |  |  |  |  |
 | 448. | Find All Numbers Disappeared in an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0448.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 455. | Assign Cookies | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0455.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 459. | Repeated Substring Pattern | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0459.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
