@@ -8,7 +8,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
 |:---:|----------|:--------:|:-------:|:----:|:-----:|:---:|:-----:|:--:|:--:|:-----:|
-| 02. | Add Two Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0002.md) | ✓ | ✓ | ✓ | ✓ |
+| 02. | Add Two Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0002.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  |
 | 03. | Longest Substring Without Repeating Characters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0003.md) | ✓ | ✓ |
 | 05. | Longest Palindromic Substring | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0005.md) | ✓ | ✓ |
 | 06. | Zigzag Conversion | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0006.md) | ✓ | ✓ |
