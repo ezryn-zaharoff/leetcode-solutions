@@ -6,8 +6,8 @@ This is a cheatsheet comparing the different languages.
 | No. |   Type   | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift |
 |:---:|----------|:-------:|:----:|:-----:|:---:|:-----:|:--:|:--:|:-----:|
 |  1. | Set integers | - | int | let | int | var | := | int | var |
-|  2. | List length | len() | .length | same as Java | .size() | same as Java | same as Py3 | .Count or .Length | .count |  |  |  |  |
-|  3. | String length | len() | .length() | .length | .length() or .size() |  |  |  |  |
+|  2. | List length | len() | .length | same as Java | .size() | same as Java | same as Py3 | .Count or .Length | .count | .length | len() | .Length | .count |
+|  3. | String length | len() | .length() | .length | .length() or .size() | .length | len() | .Length | .count |
 |  4. | Count | += | += or ++ | same as Java | same as Java |  |  |  |  |
 |  5. | For loop (i) | for i in range(n) | for (int i = 0; i < n; i++) | for (let i = 0; i < n; i++) | same as Java |  |  |  |  |
 |  6. | For loop (list) | for num in nums | for (int num : nums) | for (let num of nums) | same as Java |  |  |  |  |
