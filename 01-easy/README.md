@@ -71,7 +71,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 455. | Assign Cookies | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0455.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 459. | Repeated Substring Pattern | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0459.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 463. | Island Perimeter | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0463.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 476. | Number Complement | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0476.md) | ✓ |
+| 476. | Number Complement | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0476.md) | ✓ | ✓ |
 | 482. | License Key Formatting | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0482.md) | ✓ |
 | 485. | Max Consecutive Ones | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0485.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 500. | Keyboard Row | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0500.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
