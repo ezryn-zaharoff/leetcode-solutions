@@ -35,7 +35,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 136. | Single Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0136.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 141. | Linked List Cycle | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0141.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 144. | Binary Tree Preorder Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0144.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 145. | Binary Tree Postorder Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0145.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  | ✓ |
+| 145. | Binary Tree Postorder Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0145.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ | ✓ |
 | 160. | Intersection of Two Linked Lists | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0160.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 169. | Majority Element | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0169.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 202. | Happy Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0202.md) | ✓ |
