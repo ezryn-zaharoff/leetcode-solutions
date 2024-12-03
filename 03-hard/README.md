@@ -3,7 +3,7 @@
 This section is a compilation of solutions for hard Leetcode questions.
 
 
-## Total : 21
+## Total : 22
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift | TypeS |
@@ -16,6 +16,7 @@ This section is a compilation of solutions for hard Leetcode questions.
 | 41. | First Missing Positive | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0041.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 42. | Trapping Rain Water | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0042.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 44. | Wildcard Matching | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0044.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 220. | Contains Duplicate III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0220.md) | ✓ |  |  |  |
 | 815. | Bus Routes | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0815.md) | ✓ | - |
 | 818. | Race Car | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0818.md) | ✓ | - |
 | 827. | Making A Large Island | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/03-hard/hard-solutions/Q0827.md) | ✓ | - |
