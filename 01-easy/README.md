@@ -102,7 +102,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 697. | Degree of an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0697.md) | ✓ | ✓ | ✓ | ✓ |
 | 704. | Binary Search | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0704.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 709. | To Lower Case | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0709.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 717. | 1-bit and 2-bit Characters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0717.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 717. | 1-bit and 2-bit Characters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0717.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 724. | Find Pivot Index | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0724.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 728. | Self Dividing Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0728.md) | ✓ | - |
 | 733. | Flood Fill | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0733.md) | ✓ | - |
