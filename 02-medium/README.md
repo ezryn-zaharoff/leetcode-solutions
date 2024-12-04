@@ -68,7 +68,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 324. | Wiggle Sort II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0324.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 328. | Odd Even Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0328.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 371. | Sum of Two Integers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0371.md) | ✓ |
-| 390. | Elimination Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0390.md) | ✓ | ✓ |  |  |
+| 390. | Elimination Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0390.md) | ✓ | ✓ | ✓ |  |
 | 394. | Decode String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0394.md) | ✓ |
 | 445. | Add Two Numbers II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0445.md) | ✓ |
 | 451. | Sort Characters By Frequency | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0451.md) | ✓ | - |
