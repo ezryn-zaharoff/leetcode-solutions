@@ -88,7 +88,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 520. | Detect Capital | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0520.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 521. | Longest Uncommon Subsequence I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0521.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 541. | Reverse String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0541.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 543. | Diameter of Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0543.md) | ✓ | ✓ |  |  |
+| 543. | Diameter of Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0543.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 551. | Student Attendance Record I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0551.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 557. | Reverse Words In A String III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0557.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 559. | Maximum Depth of N-ary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0559.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
