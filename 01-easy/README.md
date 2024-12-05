@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 181
+## Total : 182
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift | TypeS |
@@ -29,6 +29,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 101. | Symmetric Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0101.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 104. | Maximum Depth of Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0104.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 110. | Balanced Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0110.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 111. | Minimum Depth of Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0111.md) | ✓ |
 | 112. | Path Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0112.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 118. | Pascal's Triangle | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0118.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 119. | Pascal's Triangle II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0119.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
