@@ -192,4 +192,4 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 3280. | Convert Date to Binary | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3280.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 3289. | The Two Sneaky Numbers of Digitville | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3289.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 3330. | Find the Original Typed String I | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3330.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 3340. | Check Balanced String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3340.md) | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ |  | ✓ |
+| 3340. | Check Balanced String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q3340.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ |
