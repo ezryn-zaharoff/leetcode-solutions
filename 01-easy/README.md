@@ -27,7 +27,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 88. | Merge Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0088.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 94. | Binary Tree Inorder Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0094.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 101. | Symmetric Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0101.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 110. | Balanced Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0110.md) | ✓ | ✓ | ✓ | ✓ |  |  |  |  |  |
+| 110. | Balanced Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0110.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  |  |
 | 112. | Path Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0112.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 118. | Pascal's Triangle | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0118.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 119. | Pascal's Triangle II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0119.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
