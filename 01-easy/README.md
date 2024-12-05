@@ -96,7 +96,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 598. | Range Addition II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0598.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 599. | Minimum Index Sum of Two Lists | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0599.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 605. | Can Place Flowers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0605.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 617. | Merge Two Binary Trees | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0617.md) | ✓ |  |  |  |
+| 617. | Merge Two Binary Trees | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0617.md) | ✓ | ✓ |  |  |
 | 628. | Maximum Product of Three Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0628.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 645. | Set Mismatch | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0645.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 657. | Robot Return to Origin | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0657.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
