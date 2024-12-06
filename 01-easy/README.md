@@ -134,7 +134,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 896. | Monotonic Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0896.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 905. | Sort Array By Parity | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0905.md) | ✓ | ✓ |
 | 917. | Reverse Only Letters | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0917.md) | ✓ | - |
-| 965. | Univalued Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0965.md) | ✓ | ✓ | ✓ | ✓ |  |  |  |  | ✓ |
+| 965. | Univalued Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0965.md) | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  | ✓ |
 | 977. | Squares of a Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0977.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1047. | Remove All Adjacent Duplicates In String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1047.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1119. | Remove Vowels from a String 🔒 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q1119.md) | ✓ | ✓ | - | ✓ | - | ✓ |
