@@ -172,7 +172,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2194. | Cells in a Range on an Excel Sheet | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2194.md) | ✓ |
 | 2224. | Minimum Number of Operations to Convert Time | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2224.md) | ✓ |
 | 2231. | Largest Number After Digit Swaps by Parity | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2231.md) | ✓ |
-| 2236. | Root Equals Sum of Children | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2236.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  |  |
+| 2236. | Root Equals Sum of Children | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2236.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  |
 | 2239. | Find Closest Number to Zero | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2239.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2243. | Calculate Digit Sum of a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2243.md) | ✓ | ✓ |
 | 2248. | Intersection of Multiple Arrays | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2248.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
