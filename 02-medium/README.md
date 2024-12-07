@@ -47,7 +47,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 90. | Subsets II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0090.md) | ✓ | - |
 | 92. | Reverse Linked List II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0092.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 98. | Validate Binary Search Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0098.md) | ✓ |
-| 102. | Binary Tree Level Order Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0102.md) | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ | ✓ | ✓ |
+| 102. | Binary Tree Level Order Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0102.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 107. | Binary Tree Level Order Traversal II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0107.md) | ✓ |  |  |  |
 | 113. | Path Sum II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0113.md) | ✓ |
 | 114. | Flatten Binary Tree to Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0114.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
