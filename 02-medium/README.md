@@ -73,7 +73,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 371. | Sum of Two Integers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0371.md) | ✓ |
 | 390. | Elimination Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0390.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 394. | Decode String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0394.md) | ✓ |
-| 429. | N-ary Tree Level Order Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0429.md) | ✓ |  |  |  |
+| 429. | N-ary Tree Level Order Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0429.md) | ✓ | ✓ |  |  |
 | 445. | Add Two Numbers II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0445.md) | ✓ |
 | 451. | Sort Characters By Frequency | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0451.md) | ✓ | - |
 | 532. | K-diff Pairs in an Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0532.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
