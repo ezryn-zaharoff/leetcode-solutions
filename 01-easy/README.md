@@ -96,7 +96,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 557. | Reverse Words In A String III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0557.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 559. | Maximum Depth of N-ary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0559.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 589. | N-ary Tree Preorder Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0589.md) | ✓ | ✓ | ✓ |  |
-| 590. | N-ary Tree Postorder Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0590.md) | ✓ | ✓ |  |  |
+| 590. | N-ary Tree Postorder Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0590.md) | ✓ | ✓ | ✓ |  |
 | 594. | Longest Harmonious Subsequence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0594.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 598. | Range Addition II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0598.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 599. | Minimum Index Sum of Two Lists | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0599.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
