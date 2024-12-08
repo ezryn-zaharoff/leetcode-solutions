@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 205
+## Total : 206
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift | TypeS |
@@ -107,6 +107,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 645. | Set Mismatch | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0645.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 657. | Robot Return to Origin | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0657.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 661. | Image Smoother | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0661.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 671. | Second Minimum Node In a Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0671.md) | ✓ |  |  |  |
 | 674. | Longest Continuous Increasing Subsequence | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0674.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 680. | Valid Palindrome II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0680.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 682. | Baseball Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0682.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
