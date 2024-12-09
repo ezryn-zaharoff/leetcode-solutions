@@ -13,7 +13,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 13. | Roman To Integer | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0013.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 14. | Longest Common Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0014.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 20. | Valid Parentheses | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0020.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 21. | Merge Two Sorted Lists | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0021.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |
+| 21. | Merge Two Sorted Lists | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0021.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ |
 | 26. | Remove Duplicates from Sorted Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0026.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 27. | Remove Element | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0027.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 28. | Find the Index of the First Occurrence in a String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0028.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
