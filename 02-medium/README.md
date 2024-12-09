@@ -74,7 +74,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 189. | Rotate Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0189.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 198. | House Robber | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0198.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 199. | Binary Tree Right Side View | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0199.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 230. | Kth Smallest Element in a BST | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0230.md) | ✓ | ✓ | ✓ | ✓ |  | ✓ | ✓ | ✓ | ✓ |
+| 230. | Kth Smallest Element in a BST | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0230.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 235. | Lowest Common Ancestor of a Binary Search Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0235.md) | ✓ |  |  |  |
 | 237. | Delete Node in a Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0237.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 280. | Wiggle Sort 🔒 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0280.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
