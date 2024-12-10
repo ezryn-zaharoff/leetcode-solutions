@@ -69,7 +69,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 148. | Sort List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0148.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 151. | Reverse Words In A String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0151.md) | ✓ | ✓ |
 | 152. | Maximum Product Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0152.md) | ✓ | ✓ |
-| 167. | Two Sum II - Input Array Is Sorted | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0167.md) | ✓ | ✓ | ✓ | ✓ |  | ✓ | ✓ | ✓ | ✓ |
+| 167. | Two Sum II - Input Array Is Sorted | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0167.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 173. | Binary Search Tree Iterator | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0173.md) | ✓ |  |  |  |
 | 186. | Reverse Words In A String II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0186.md) | ✓ | ✓ |
 | 189. | Rotate Array | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0189.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
