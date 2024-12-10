@@ -105,7 +105,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 628. | Maximum Product of Three Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0628.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 637. | Average of Levels in Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0637.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 645. | Set Mismatch | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0645.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 653. | Two Sum IV - Input is a BST | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0653.md) | ✓ |  |  |  |
+| 653. | Two Sum IV - Input is a BST | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0653.md) | ✓ | ✓ |  |  |
 | 657. | Robot Return to Origin | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0657.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 661. | Image Smoother | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0661.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 671. | Second Minimum Node In a Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0671.md) | ✓ |  |  |  |
