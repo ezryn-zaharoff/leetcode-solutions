@@ -3,7 +3,7 @@
 This section is a compilation of solutions for easy Leetcode questions.
 
 
-## Total : 211
+## Total : 212
 
 
 | No. | Question | Solution | Python3 | Java | JavaS | C++ | Scala | Go | C# | Swift | TypeS |
@@ -175,6 +175,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 2144. | Minimum Cost of Buying Candies With Discount | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2144.md) | ✓ |
 | 2154. | Keep Multiplying Found Values by Two | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2154.md) | ✓ |
 | 2160. | Minimum Sum of Four Digit Number After Splitting Digits | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2160.md) | ✓ |
+| 2164. | Sort Even and Odd Indices Independently | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2164.md) | ✓ |  |  |  |
 | 2169. | Count Operations to Obtain Zero | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2169.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2180. | Count Integers With Even Digit Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2180.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2185. | Counting Words With a Given Prefix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q2185.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
