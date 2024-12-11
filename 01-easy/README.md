@@ -102,7 +102,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 599. | Minimum Index Sum of Two Lists | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0599.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 605. | Can Place Flowers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0605.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 617. | Merge Two Binary Trees | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0617.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 628. | Maximum Product of Three Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0628.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 628. | Maximum Product of Three Numbers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0628.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 637. | Average of Levels in Binary Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0637.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 645. | Set Mismatch | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0645.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 653. | Two Sum IV - Input is a BST | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0653.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
