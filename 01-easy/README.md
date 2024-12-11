@@ -81,7 +81,7 @@ This section is a compilation of solutions for easy Leetcode questions.
 | 463. | Island Perimeter | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0463.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 476. | Number Complement | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0476.md) | ✓ | ✓ |
 | 482. | License Key Formatting | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0482.md) | ✓ |
-| 485. | Max Consecutive Ones | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0485.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 485. | Max Consecutive Ones | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0485.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 500. | Keyboard Row | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0500.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 504. | Base 7 | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0504.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 506. | Relative Ranks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/01-easy/easy-solutions/Q0506.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
