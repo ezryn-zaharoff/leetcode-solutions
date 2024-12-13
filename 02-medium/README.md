@@ -31,7 +31,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 39. | Combination Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0039.md) | ✓ | - |
 | 40. | Combination Sum II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0040.md) | ✓ | - |
 | 43. | Multiply Strings | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0043.md) | ✓ | - |
-| 45. | Jump Game II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0045.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 45. | Jump Game II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0045.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 53. | Maximum Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0053.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 54. | Spiral Matrix | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0054.md) | ✓ | - |
 | 55. | Jump Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0055.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
