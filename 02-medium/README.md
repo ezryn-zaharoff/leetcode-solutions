@@ -113,7 +113,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 885. | Spiral Matrix III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0885.md) | ✓ | ✓ |
 | 889. | Construct Binary Tree from Preorder and Postorder Traversal | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0889.md) | ✓ |  |  |  |
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0930.md) | ✓ | ✓ |
-| 974. | Subarray Sums Divisible by K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0974.md) | ✓ |  |  |  |
+| 974. | Subarray Sums Divisible by K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0974.md) | ✓ | ✓ |  |  |
 | 978. | Longest Turbulent Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0978.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1110. | Delete Nodes And Return Forest | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1110.md) | ✓ |  |  |  |
 | 1171. | Remove Zero Sum Consecutive Nodes from Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1171.md) | ✓ |
