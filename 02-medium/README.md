@@ -83,7 +83,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 287. | Find the Duplicate Number | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0287.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 324. | Wiggle Sort II | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0324.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 328. | Odd Even Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0328.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 337. | House Robber III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0337.md) | ✓ | ✓ | ✓ |  |  |  |  |  | ✓ |
+| 337. | House Robber III | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0337.md) | ✓ | ✓ | ✓ | ✓ |  |  |  |  | ✓ |
 | 371. | Sum of Two Integers | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0371.md) | ✓ |
 | 390. | Elimination Game | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0390.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 394. | Decode String | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0394.md) | ✓ |
