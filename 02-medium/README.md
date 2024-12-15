@@ -97,7 +97,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 648. | Replace Words | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0648.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 669. | Trim a Binary Search Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0669.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 713. | Subarray Product Less Than K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0713.md) | ✓ | ✓ |
-| 725. | Split Linked List in Parts | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0725.md) | ✓ | ✓ | ✓ |  |  |  |  |  | ✓ |
+| 725. | Split Linked List in Parts | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0725.md) | ✓ | ✓ | ✓ | ✓ |  |  |  |  | ✓ |
 | 735. | Asteroid Collision | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0735.md) | ✓ | - |
 | 799. | Champagne Tower | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0799.md) | ✓ | - |
 | 807. | Max Increase to Keep City Skyline | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0807.md) | ✓ | - |
