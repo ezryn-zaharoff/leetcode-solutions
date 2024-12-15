@@ -136,7 +136,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 2271. | Maximum White Tiles Covered by a Carpet | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2271.md) | ✓ | ✓ |
 | 2274. | Maximum Consecutive Floors Without Special Floors | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2274.md) | ✓ | ✓ |
 | 2275. | Largest Combination With Bitwise AND Greater Than Zero | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2275.md) | ✓ | - |
-| 2279. | Maximum Bags With Full Capacity of Rocks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2279.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 2279. | Maximum Bags With Full Capacity of Rocks | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2279.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 2280. | Minimum Lines to Represent a Line Chart | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2280.md) | ✓ | ✓ |
 | 2284. | Sender With Largest Word Count | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2284.md) | ✓ | ✓ |
 | 2285. | Maximum Total Importance of Roads | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q2285.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
