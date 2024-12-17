@@ -118,7 +118,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 930. | Binary Subarrays With Sum | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0930.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 974. | Subarray Sums Divisible by K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0974.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 978. | Longest Turbulent Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0978.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 1038. | Binary Search Tree to Greater Sum Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1038.md) | ✓ | ✓ |  |  |
+| 1038. | Binary Search Tree to Greater Sum Tree | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1038.md) | ✓ | ✓ | ✓ |  |  |  |  |  | ✓ |
 | 1110. | Delete Nodes And Return Forest | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1110.md) | ✓ |  |  |  |
 | 1171. | Remove Zero Sum Consecutive Nodes from Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1171.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1404. | Number of Steps to Reduce a Number in Binary Representation to One | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1404.md) | ✓ |
