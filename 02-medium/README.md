@@ -119,7 +119,7 @@ This section is a compilation of solutions for medium Leetcode questions.
 | 974. | Subarray Sums Divisible by K | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0974.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 978. | Longest Turbulent Subarray | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q0978.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 1110. | Delete Nodes And Return Forest | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1110.md) | ✓ |  |  |  |
-| 1171. | Remove Zero Sum Consecutive Nodes from Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1171.md) | ✓ |
+| 1171. | Remove Zero Sum Consecutive Nodes from Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1171.md) | ✓ | ✓ |  |  |
 | 1404. | Number of Steps to Reduce a Number in Binary Representation to One | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1404.md) | ✓ |
 | 1530. |Number of Good Leaf Nodes Pairs | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1530.md) | ✓ |
 | 1721. | Swapping Nodes in a Linked List | [Solution](https://github.com/ezryn-zaharoff/leetcode-solutions/blob/master/02-medium/medium-solutions/Q1721.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
